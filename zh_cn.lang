@@ -1,0 +1,2033 @@
+entity.MasqueradeMob.name=Masquerade Dopant
+entity.Ankhmob.name=Ankh
+entity.BugsterVirusMob.name=Bugster Virus Foot Soldier
+entity.nebula_BugsterVirusMob.name=Nebula Bugster
+entity.GammaCommandoMob.name=Gamma Commando
+entity.PoppyMob.name=Poppy Pipopapo
+entity.ShockerCombatmanMob.name=Shocker Combatman
+entity.ChronosMob.name=假面骑士Chronos
+entity.GuardianMob.name=Touto Guardian
+entity.SeitoGuardianMob.name=Seito Guardian
+entity.HokutoGuardianMob.name=Hokuto Guardian
+entity.AnotherBuildMob.name=Another Build
+entity.EvoltMob.name=假面骑士Evol
+entity.EvoltMob2.name=假面骑士Evol(黑洞形态)
+entity.EvoltMob3.name=Evolt
+entity.HardGuardianMob.name=Hard Guardian
+entity.LazerMob.name=假面骑士Lazer
+entity.exaidBikeMob.name=Ex-Aid Bike
+entity.machine_builder.name=Machine Builder
+entity.RemoconBrosMob.name=Remocon Bros
+entity.EngineBrosMob.name=Engine Bros
+entity.HellBrosMob.name=Hell Bros
+entity.KaiserMob.name=Kaiser
+entity.KaiserReverseMob.name=Kaiser Reverse
+entity.BikaiserMob.name=BiKaiser
+entity.NightRogueMob.name=Night Rogue
+entity.BloodStalkMob.name=Blood Stalk
+entity.NeedleSmashMob.name=Needle Smash
+entity.greaseMob.name=假面骑士Grease
+entity.BuildMob.name=假面骑士Build (Full Potential)
+entity.kodama_suika_armsMob.name=Kodama Suika Arms
+entity.ClayDollDopantMob.name=Clay Doll Dopant
+entity.NazcaDopantMob.name=Nazca Dopant
+entity.RedNazcaDopantMob.name=R Nazca Dopant
+entity.TabooDopantMob.name=Taboo Dopant
+entity.skullboilder.name=Skullboilder
+entity.hardboilder.name=Hardboilder
+entity.AccelMob.name=假面骑士Accel
+entity.Acrobatter.name=Acrobatter
+entity.ridoron.name=Ridoron
+entity.machine_tornador.name=Machine Tornador
+entity.RidePlayerMob.name=Ride Player
+entity.Para_dxMob.name=假面骑士ParaDX
+entity.Red_PoppyMob.name=假面骑士Poppy
+entity.genmMob.name=假面骑士GENM
+
+effect.fly=Flying
+effect.fire_punch=Fire Punch
+effect.punch_boost=Punch Boost
+effect.big=Enlarging
+
+itemGroup.tabkuuga=假面骑士空我
+itemGroup.tabagito=假面骑士Agito
+itemGroup.tabryuki=假面骑士龙骑
+itemGroup.tabfaiz=假面骑士Faiz
+itemGroup.tabblade=假面骑士剑
+itemGroup.tabhibiki=假面骑士响鬼
+itemGroup.tabkabuto=假面骑士甲斗
+itemGroup.tabden_o=假面骑士电王
+itemGroup.tabkiva=假面骑士Kiva
+itemGroup.tabdecade=假面骑士Decade
+itemGroup.tabW=假面骑士W
+itemGroup.tabOOO=假面骑士OOO
+itemGroup.tabFourze=假面骑士Fourze
+itemGroup.tabwizard=假面骑士Wizard
+itemGroup.tabGaim=假面骑士铠武
+itemGroup.tabdrive=假面骑士Drive
+itemGroup.tabghost=假面骑士Ghost
+itemGroup.tabIichigo=昭和骑士
+itemGroup.tabex_aid=假面骑士Ex-Aid
+itemGroup.tabbuild=假面骑士Build
+itemGroup.tabamazons=假面骑士Amazons
+itemGroup.tabzi_o=假面骑士Zi-O
+itemGroup.tabdecor=装饰物品
+itemGroup.tabmisc=杂项骑士物品
+
+tile.stone_kuuga.name=空我矿石
+tile.stone_agito.name=Agito矿石
+tile.advent_glass.name=降临玻璃
+tile.bladecard_block.name=Rouze Card矿石
+tile.card_stone.name=Legend 骑士 Card Ore
+tile.card_hellrock.name=Legend 骑士 Card矿石
+tile.mission_memory_block.name=Mission Memory矿石
+tile.oni_ore_block.name=Oni矿石
+tile.zectblock.name=ZECT矿石
+tile.imaginsandblock.name=Imagin Sand矿石
+tile.fuestleblock.name=Fuestle矿石
+tile.cellmedalblock.name=细胞硬币矿石
+tile.ooo_hellrock.name=Birth核心矿石
+tile.gaiamemoryblock.name=盖亚记忆体矿石
+tile.gaiamemoryhellrock.name=T2盖亚记忆体矿石
+tile.astroswitchblock.name=Astroswitch矿石
+tile.wizardgemblock.name=Wizard Gem Stone矿石
+tile.himawari_lockseedblock.name=Helheim Fruit矿石
+tile.ghost_iconsblock.name=眼魂矿石
+tile.ghost_icons_hellrock.name=Gamma Eyecon矿石
+tile.bugsters_stone.name=Bugsters Virus
+tile.pandora_box.name=Touto Full Bottle矿石
+tile.amazon_cell_block.name=Amazon Cell矿石
+tile.watch_stone.name=Ridewatch矿石
+
+
+tile.hellrock_agito.name=Agito矿石
+tile.oni_ore_hellrock.name=Oni矿石
+tile.hellwizardgemblock.name=Wizard Gem Stone矿石
+tile.hellimaginsandblock.name=Evil Imagin Sand矿石
+tile.ghost_Icons_hellrock.name=Gamma 幽灵眼魂矿石
+tile.hellrock_lockseedblock.name=Helheim Fruit矿石
+tile.drive_stone.name=Shift Car矿石
+tile.hellrock_drive.name=Shift Car矿石
+tile.gemdeus_stone.name=Gemdeus Virus
+tile.fuestlehellrock.name=Fake Fuestle矿石
+tile.swichhellrock.name=核心 Switch矿石
+tile.pandora_box_hellrock.name=Hokuto 满瓶矿石
+tile.pandora_box_hellrock_2.name=Seito 满瓶矿石
+tile.neozecthellrock.name=Neo-ZECT矿石
+tile.hell_advent_glass.name=暗黑降临玻璃
+tile.bladecard_hellrock.name=Rouze Card矿石
+tile.watch_hellrock.name=未来驾驭表头矿石
+
+tile.evolt_block.name=Evolt方块
+tile.night_rogue_block.name=Night Rogue方块
+tile.hell_bros_block.name=Hell Bros方块
+tile.bi_kaiser_block.name=Bi Kaiser方块
+tile.another_build_block.name=Another Build方块
+tile.cronus_block.name=Chronos方块
+
+tile.purifyer.name=满装瓶罐净化机
+tile.solidifyer.name=满装瓶罐固化机
+
+tile.gaia_memory_refiner.name=盖亚记忆体精炼机
+
+tile.gamecreator.name=游戏创造者
+
+tile.monitor.name=Computer Monitor
+tile.pandorabox.name=潘多拉魔盒
+tile.mighty_block.name=全能动作X方块
+tile.wallplate.name=Metal Wall Plate
+tile.fangire_glass.name=Fangire Glass
+
+item.energy.name=能量弹
+
+item.base_sword.name=基础武器
+item.base_gun.name=基础枪
+
+item.agito_of_seed.name=Seed of Agito
+item.g3core.name=G3核心
+item.bladecard.name=Blank Rouze Card
+item.blank_mission_memory.name=空白使命芯片
+item.blankcard.name=Blank Rider Card
+item.oni_ore.name=Akane Taka Disk Animal
+item.oni_orehell.name=Asagi Washi Disk Animal
+item.mini_zecter.name=ZECT Mizer
+item.unfinished_kabutick_zecter.name=Unfinished Kabutick Zecter
+item.imaginsand.name=Imagin Sand
+item.fuestle.name=Fuestle
+item.fuestlefake.name=Fake Fuestle
+item.cellmedal.name=细胞硬币
+item.birth_core.name=Birth核心
+item.gaiamemory.name=盖亚记忆体碎片
+item.t2gaiamemory.name=T2盖亚记忆体
+item.astroswitch.name=Astroswitch
+item.wizardgem.name=Wizard宝石
+item.wizardgem2.name=Wizard宝石
+item.himawari_lockseed.name=瓜子定锁种子
+item.ghost_icons.name=空白幽灵眼魂
+item.blank_gashat.name=空白转玩卡带
+item.unfinished_gear.name=Unfinished Gear
+item.rider_circuit.name=Rider Circuit
+item.amazon_cell_vial.name=Amazon细胞样本
+item.blank_watch.name=空白驾驭表头
+item.blank_miridewatch.name=空白未来驾驭表头
+
+item.himawari_energy_lockseed.name=瓜子能量定锁种子
+item.ghost_gammaicons.name=Blank Gamma幽灵眼魂
+
+item.medajalibur.name=Medajalibur
+item.medajalibur_charge.name=Medajalibur (Triple Scanning Charge)
+
+item.tajaspinner.name=Tajaspinner
+item.medagaburyu.name=Medagaburyu
+
+item.birth_buster.name=Birth Buster
+item.deepest_harpoon.name=Deepest Harpoon
+
+item.decadehead.name=Decade头盔
+item.decadetroso.name=Decade胸甲
+item.decadelegs.name=Decade护腿
+item.decadedriver.name=Decade驱动器
+
+
+item.ooohead.name=OOO头盔
+item.oootroso.name=OOO胸甲
+item.ooolegs.name=OOO护腿
+
+item.ooodriver.name=OOO驱动器
+item.o_scanner.name=O扫描仪
+
+item.poseidon_driver.name=Poseidon驱动器
+item.aqua_driver.name=Aqua驱动器
+item.core_driver.name=Core驱动器
+item.core_driver_power_up.name=Core驱动器 强化形态
+
+item.taka.name=Taka 核心硬币
+item.kuwagata.name=Kuwagata 核心硬币
+item.lion.name=Lion 核心硬币
+item.sai.name=Sai 核心硬币
+item.shachi.name=Shachi 核心硬币
+item.ptera.name=Ptera 核心硬币
+item.cobra.name=Cobra 核心硬币
+item.super_taka.name=Super Taka 核心硬币
+item.love_core.name=Love 核心硬币 (Head)
+item.shika.name=Shika 核心硬币
+item.seiuchi.name=Seiuchi 核心硬币
+item.mukade.name=Mukade 核心硬币
+item.sasori_new.name=New Sasori 核心硬币
+item.taka_ankh.name=Ankh's Taka 核心硬币
+
+item.tora.name=Tora 核心硬币
+item.kamakiri.name=Kamakiri 核心硬币
+item.gorilla.name=Gorilla 核心硬币
+item.kujaku.name=Kujaku 核心硬币
+item.unagi.name=Unagi 核心硬币
+item.tricera.name=Tricera 核心硬币
+item.kame.name=Kame 核心硬币
+item.imagin.name=Imagin 核心硬币
+item.panda.name=Panda 核心硬币
+item.super_tora.name=Super Tora 核心硬币
+item.kangaroo.name=Kangaroo 核心硬币(手)
+item.love_core2.name=Love 核心硬币 (手)
+item.gazelle.name=Gazelle 核心硬币
+item.shirokuma.name=Shirokuma 核心硬币
+item.hachi.name=Hachi 核心硬币
+item.kani_new.name=New Kani 核心硬币
+item.yadokari.name=Yadokari 核心硬币
+
+item.batta.name=Batta 核心硬币
+item.cheetah.name=Cheetah 核心硬币
+item.zou.name=Zou 核心硬币
+item.condor.name=Condor 核心硬币
+item.tako.name=Tako 核心硬币
+item.tyranno.name=Tyranno 核心硬币
+item.wani.name=Wani 核心硬币
+item.shocker.name=Shocker 核心硬币
+item.super_batta.name=Super Batta 核心硬币
+item.kangaroo2.name=Kangaroo 核心硬币 (腿)
+item.love_core3.name=Love 核心硬币 (腿)
+item.ushi.name=Ushi 核心硬币
+item.penguin.name=Penguin 核心硬币
+item.ari.name=Ari 核心硬币
+item.ebi_new.name=New Ebi 核心硬币
+
+item.same.name=Same 核心硬币
+item.kujira.name=Kujira 核心硬币
+item.ookamiuo.name=Ookamiuo 核心硬币
+    
+item.sasori.name=Sasori 核心硬币
+item.kani.name=Kani 核心硬币
+item.ebi.name=Ebi 核心硬币
+
+item.habataki.name=Habataki 核心硬币
+item.taiga.name=Taiga 核心硬币
+item.ichigo.name=Ichigo 核心硬币
+
+item.love.name=Love 核心硬币(头)
+item.love2.name=Love 核心硬币(手)
+item.love3.name=Love 核心硬币(腿)
+
+item.proto_birth_core.name=Proto Birth Core
+
+item.metal_shaft.name=Metal Shaft
+item.prism_bicker.name=Prism Bicker
+item.eternal_edge.name=Eternal Edge
+item.trigger_magnum.name=Trigger Magnum
+item.skull_magnum.name=Skull Magnum
+item.engine_blade.name=Engine Blade
+item.shield_prism_bicker.name=Prism Bicker Shield
+
+item.whead.name=W头盔
+item.wtroso.name=W胸甲
+item.wlegs.name=W护腿
+
+item.wdriver.name=双重驱动器
+item.lostdriver.name=迷失驱动器(Joker)
+item.lostdriver_cyclone.name=迷失驱动器(Cyclone)
+item.lostdriver_eternal.name=迷失驱动器(Eternal)
+item.lostdriver_skull.name=迷失驱动器(Skull)
+item.accel_driver.name=Accel驱动器
+
+item.cyclone_memory.name=Cyclone盖亚记忆体
+item.heat_memory.name=Heat盖亚记忆体
+item.luna_memory.name=Luna盖亚记忆体
+item.fang_memory.name=Fang盖亚记忆体
+item.joker_memory.name=Joker盖亚记忆体
+item.metal_memory.name=Metal盖亚记忆体
+item.trigger_memory.name=Trigger盖亚记忆体
+item.xtreme_memory.name=Xtreme盖亚记忆体
+item.xtreme_gold_memory.name=Xtreme盖亚记忆体 黄金极限形态
+item.xtreme_accel_memory.name=Xtreme盖亚记忆体 加速极限形态
+item.cyclonecyclone_memory.name=Cyclone盖亚记忆体(Cyclone Cyclone Ver)
+item.jokerjoker_memory.name=Joker盖亚记忆体(Joker Joker Ver)
+item.prism_memory.name=Prism盖亚记忆体
+item.engine_memory.name=Engine盖亚记忆体
+
+item.joker_t2_memory.name=T2 Joker盖亚记忆体
+item.skull_memory.name=Skull盖亚记忆体
+item.eternal_memory.name=Eternal盖亚记忆体
+item.eternal_t2_memory.name=T2 Eternal盖亚记忆体
+
+item.shippu_memory.name=Shippu盖亚记忆体
+item.kirifuda_memory.name=Kirifuda盖亚记忆体
+
+
+item.accel_memory.name=Accel盖亚记忆体
+item.trial_memory.name=Trial盖亚记忆体
+item.accel_booster_memory.name=Accel盖亚记忆体 强化形态
+
+item.bomb_memory.name=Bomb盖亚记忆体
+item.dummy_memory.name=Dummy盖亚记忆体
+item.fang_memory_un.name=未完成的Fang盖亚记忆体
+item.trial_memory_un.name=未完成的Trial盖亚记忆体
+item.xtreme_memory_g.name=Xtreme盖亚记忆体(金)
+item.xtreme_memory_s.name=Xtreme盖亚记忆体(银)
+
+
+item.accel_t2_memory.name=T2 Accel盖亚记忆体
+item.bird_t2_memory.name=T2 Bird盖亚记忆体
+item.cyclone_t2_memory.name=T2 Cyclone盖亚记忆体
+item.fang_t2_memory.name=T2 Fang盖亚记忆体
+item.gene_t2_memory.name=T2 Gene盖亚记忆体
+item.heat_t2_memory.name=T2 Heat盖亚记忆体
+item.iceage_t2_memory.name=T2 Ice Age盖亚记忆体
+item.key_t2_memory.name=T2 Key盖亚记忆体
+item.luna_t2_memory.name=T2 Lune盖亚记忆体
+item.metal_t2_memory.name=T2 Metal盖亚记忆体
+item.nasca_t2_memory.name=T2 Nasca盖亚记忆体
+item.ocean_t2_memory.name=T2 Ocean盖亚记忆体
+item.puppeteer_t2_memory.name=T2 Puppeteer盖亚记忆体
+item.queen_t2_memory.name=T2 Queen盖亚记忆体
+item.rocket_t2_memory.name=T2 Rocket盖亚记忆体
+item.skull_t2_memory.name=T2 Skull盖亚记忆体
+item.trial_t2_memory.name=T2 Trial盖亚记忆体
+item.trigger_t2_memory.name=T2 Trigger盖亚记忆体
+item.unicorn_t2_memory.name=T2 Unicorn盖亚记忆体
+item.violence_t2_memory.name=T2 Violence盖亚记忆体
+item.weather_t2_memory.name=T2 Weather盖亚记忆体
+item.xtreme_t2_memory.name=T2 Xtreme盖亚记忆体
+item.yesterday_t2_memory.name=T2 Yesterday盖亚记忆体
+item.zone_t2_memory.name=T2 Zone盖亚记忆体
+
+item.unrefined_memory_g.name=未完成的盖亚记忆体(金)
+item.unrefined_memory_s.name=未完成的盖亚记忆体(银)
+item.unrefined_memory_t2.name=未完成的T2盖亚记忆体
+
+
+item.rocket.name=Rocket Module
+item.billytherod.name=Elek Module Billy The Rod
+item.hee_hackgun.name=Fire Module Hee-Hackgun
+item.barizun_sword.name=Cosmic Module Barizun Sword
+item.meteor_nadeshiko_fusion_rocket.name=Rocket Module (Meteor Nadeshiko Fusion States Ver)
+
+item.fourzehead.name=Fourze头盔
+item.fourzetroso.name=Fourze胸甲
+item.fourzelegs.name=Fourze护腿
+
+item.fourzedriver.name=Fourze驱动器
+item.ikarosdriver.name=Ikaros驱动器
+
+
+item.rocket_swich.name=Rocket开关
+item.launcher_switch.name=Launcher开关
+item.drill_switch.name=Drill开关
+item.radar_switch.name=Radar开关
+item.magic_hand_switch.name=Magic Hand开关
+item.camera_switch.name=Camera开关
+item.parachute_switch.name=Parachute开关
+item.chainsaw_switch.name=Chainsaw开关
+item.hopping_switch.name=Hopping开关
+item.elek_swich.name=Elek开关
+
+item.scissors_switch.name=Scissors开关
+item.beat_switch.name=Beat开关
+item.chain_array_switch.name=Chain Array开关
+item.smoke_switch.name=Smoke开关
+item.spike_switch.name=Spike开关
+item.winch_switch.name=Winch开关
+item.flash_switch.name=Flash开关
+item.shield_switch.name=Shield开关
+item.gatling_switch.name=Gatling开关
+item.fire_swich.name=Fire开关
+
+item.stealth_switch.name=Stealth开关
+item.hammer_switch.name=Hammer开关
+item.water_switch.name=Water开关
+item.medical_switch.name=Medical开关
+item.pen_switch.name=Pen开关
+item.wheel_switch.name=Wheel开关
+item.screw_switch.name=Screw开关
+item.hand_switch.name=Hand开关
+item.schop_switch.name=Schop开关
+item.magnet_swich_n.name=N磁石开关
+
+item.magnet_swich_s.name=S磁石开关
+item.freeze_switch.name=Freeze开关
+item.claw_switch.name=Claw开关
+item.board_switch.name=Board开关
+item.giantfoot_switch.name=Giantfoot开关
+item.aero_switch.name=Aero开关
+item.gyro_switch.name=Gyro开关
+item.net_switch.name=Net开关
+item.stamper_switch.name=Stamper开关
+item.cosmic_swich.name=Cosmic开关
+
+item.super_rocket_swich.name=Rocket开关 Super-1
+item.super_launcher_swich.name=Launcher开关 Super-2
+item.super_drill_swich.name=Drill开关 Super-3
+item.clear_drill_swich.name=Clear Drill开关
+
+item.core_switch.name=Core开关
+item.solu_switch.name=SOLU开关
+item.gate_switch.name=Gate开关
+
+item.wizarswordgun.name=WizarSwordGun
+item.axcalibur.name=AxCalibur
+item.axcalibur_charge.name=AxCalibur
+item.wizarswordgun_mage.name=WizarSwordGun (Mage Ver)
+item.mirage_magnum.name=Mirage Magnum
+item.dice_saber.name=Dice Saber
+item.hammelcane.name=Hamel Cane
+item.dis_halberd.name=Dis Halberd
+
+item.wizardhead.name=Wizard头盔
+item.wizardtroso.name=Wizard胸甲
+item.wizardlegs.name=Wizard护腿
+
+item.wizardriver.name=Wizard驱动器
+
+item.flame_ring.name=Flame Wizard戒指
+item.water_ring.name=Water Wizard戒指
+item.hurricane_ring.name=Hurricane Wizard戒指
+item.land_ring.name=Land Wizard戒指
+item.flame_ring_dragon.name=Flame Dragon Wizard戒指
+item.water_ring_dragon.name=Water Dragon Wizard戒指
+item.hurricane_ring_dragon.name=Hurricane Dragon Wizard戒指
+item.land_ring_dragon.name=Land Dragon Wizard戒指
+item.infinity_ring.name=Infinity Wizard戒指
+
+item.musou_saber.name=Musou Saber
+
+item.musou_saber_naginata.name=Musou Saber (Naginata Mode)
+item.blood_musou_saber_naginata.name=Musou Saber (Naginata Mode)
+item.musou_saber_kusarigama.name=Musou Saber (Kusarigama Mode)
+item.dj_gun.name=DJ Gun
+item.dj_gun_taiken_mode.name=DJ Gun (Taiken Mode)
+
+item.kagematsu.name=Kagematsu
+item.donkachi.name=Donkachi
+item.melon_defender.name=Melon Defender
+item.pine_iron.name=Pine Iron
+item.ichigo_kunai.name=Ichigo Kunai
+item.daidaimaru.name=Daidaimaru
+item.blood_daidaimaru.name=Daidaimaru(Blood Orange Ver)
+item.banana_spear.name=Banana Spear
+
+item.gaimhead.name=铠武头盔
+item.gaimtroso.name=铠武胸甲
+item.gaimlegs.name=铠武护腿
+
+item.sengoku_driver_gaim.name=战极驱动器(铠武)
+item.sengoku_driver_baron.name=战极驱动器(巴隆)
+item.sengoku_driver_ryugen.name=战极驱动器(龙玄)
+item.sengoku_driver_zangetsu.name=战极驱动器(斩月)
+item.sengoku_driver_gridon.name=战极驱动器(Gridon)
+item.sengoku_driver_kurokage.name=战极驱动器(黑影)
+item.sengoku_driver_barvo.name=战极驱动器(Bravo)
+item.sengoku_driver_knuckle.name=战极驱动器(Knuckle)
+item.sengoku_driver_bujin_gaim.name=战极驱动器(武神铠武)
+item.sengoku_driver_fifteen.name=战极驱动器(十五)
+item.sengoku_driver_mars.name=战极驱动器(Mars)
+item.sengoku_driver_kamuro.name=战极驱动器(Kamuro)
+item.sengoku_driver_jam.name=战极驱动器(邪武)
+item.sengoku_driver_kurokage_troopers.name=战极驱动器(黑影卫兵)
+
+item.sengoku_driver_proto_gaim.name=战极驱动器(原型铠武)
+item.sengoku_driver_proto_baron.name=战极驱动器(原型巴隆)
+item.sengoku_driver_proto_ryugen.name=战极驱动器(原型龙玄)
+item.sengoku_driver_proto_gridon.name=战极驱动器(原型Gridon)
+item.sengoku_driver_proto_barvo.name=战极驱动器(原型Bravo)
+
+
+item.genesis_driver_zangetsu_shin.name创世纪驱动器(斩月 真)
+item.genesis_driver_duke.name=创世纪驱动器(Duke)
+item.genesis_driver_sigurd.name=创世纪驱动器(Sigurd)
+item.genesis_driver_marika.name=创世纪驱动器(Marika)
+item.genesis_driver_baron.name=创世纪驱动器(巴隆)
+item.genesis_driver_kurokage_shin.name=创世纪驱动器(黑影 真)
+
+item.matsubokkuri_lockseed.name=Matsubokkuri 定锁种子
+item.kurumi_lockseed.name=Kurumi定锁种子
+item.donguri_lockseed.name=Donguri定锁种子
+item.melon_lockseed.name=Melon定锁种子
+item.pine_lockseed.name=Pine定锁种子
+item.ichigo_lockseed.name=Ichigo定锁种子
+item.orange_lockseed.name=Orange定锁种子
+item.banana_lockseed.name=Banana定锁种子
+item.budou_lockseed.name=Budou定锁种子
+item.mango_lockseed.name=Mango定锁种子
+item.durian_lockseed.name=Durian定锁种子
+item.kiwi_lockseed.name=Kiwi定锁种子
+
+item.sakura_hurricane.name=Sakura Hurricane Lock Vehicle
+item.rose_attacker.name=Rose Attacker Lock Vehicle
+item.dandeliner.name=Dandeliner Lock Vehicle
+item.tulip_hopper.name=Tulip Hopper Lock Vehicle
+
+item.lemon_energy_lockseed.name=Lemon能量定锁种子
+item.cherry_energy_lockseed.name=Cherry能量定锁种子
+item.peach_energy_lockseed.name=Peach能量定锁种子
+item.melon_energy_lockseed.name=Melon能量定锁种子
+item.matsubokkuri_energy_lockseed.name=Matsubokkuri能量定锁种子
+
+item.kachidoki_lockseed.name=Kachidoki定锁种子
+item.kiwami_lockseed.name=Kiwami定锁种子
+item.yomotsu_heguri_lockseed.name=Yomotsu Heguri定锁种子
+
+item.blood_orange_lockseed.name=Blood Orange定锁种子
+item.fifteen_lockseed.name=Fifteen定锁种子
+item.golden_ringo_lockseed.name=Golden Ringo定锁种子
+item.silver_ringo_lockseed.name=Silver Ringo定锁种子
+item.watermelon_lockseed.name=Watermelon定锁种子
+item.forbidden_ringo_lockseed.name=Forbidden Ringo定锁种子
+item.black_ringo_lockseed.name=Black Ringo定锁种子
+item.black_baron_lockseed.name=Banana定锁种子(Black Baron ver.)
+
+item.christmas_lockseed.name=Christmas定锁种子
+item.roulette_lockseed.name=Roulette定锁种子
+
+
+item.dark_orange_lockseed.name=暗黑Orange定锁种子
+item.dark_lemon_energy_lockseed.name=暗黑Lemon能量定锁种子
+item.sid_lockseed.name=Sid定锁种子
+
+item.fake_donguri_lockseed.name=Donguri定锁种子
+
+item.wizard_lockseed.name=Wizard骑士定锁种子
+item.fourze_lockseed.name=Fouze骑士定锁种子
+item.ooo_lockseed.name=OOO骑士定锁种子
+item.w_lockseed.name=W骑士定锁种子
+item.decade_lockseed.name=Decade骑士定锁种子
+item.rider_ichigo_lockseed.name=一号骑士定锁种子
+
+item.drivehead.name=Drive头盔
+item.drivetroso.name=Drive胸甲
+item.drivelegs.name=Drive护腿
+
+item.drivedriver.name=Drive Driver
+
+item.speedshift.name=Shift Speed
+item.wildshift.name=Shift Wild
+item.speedwildtechnicshift.name=Shift Speed Wild Technic
+item.maxflare.name=Max Flare
+item.funkyspike.name=Funky Spike
+item.midnightshadow.name=Midnight Shadow
+item.justice_hunter.name=Justice Hunter
+item.dream_vegas.name=Dream Vegas
+item.dimension_cab.name=Dimension Cab
+item.massive_monster.name=Massive Monster
+item.spin_mixer.name=Spin Mixer
+
+item.burning_solar.name=Burning Solar
+item.colorful_commercial.name=Colorful Commercial
+item.deco_traveller.name=Deco Traveller
+item.amazing_circus.name=Amazing Circus
+
+item.den_denso.name=DenGasher Sword Mode
+item.den_denro.name=DenGasher Rod Mode
+item.den_denaxe.name=DenGasher Ax Mode
+item.den_dengu.name=DenGasher Gun Mode
+item.den_denhandaxe.name=DenGasher Hand Axe Mode
+item.den_denboomerang.name=DenGasher Boomerang Mode
+item.nega_den_gasher.name=Nega DenGasher
+item.gaoh_gasher.name=Gaoh Gasher
+item.den_gasher_vega.name=DenGasher Vega Mode
+item.denkamen_sword.name=Denkamen Sword
+item.den_denhijack.name=Savage Gasher
+item.momotaken.name=Momotaken
+item.uratazao.name=Uratazao
+item.kintaono.name=Kintaono
+item.gden_denjutte.name=G DenGasher Jutte Mode
+item.macheteddy.name=Macheteddy
+item.gden_dengu.name=G DenGasher Gun Mode
+
+item.zerogasher.name=ZeroGasher
+
+item.den_ohead.name=电王头盔
+item.den_otroso.name=电王胸甲
+item.den_olegs.name=电王护腿
+
+item.den_odriver.name=电王腰带
+item.zeronosbelt.name=Zeronos腰带
+item.newden_obelt.name=New电王腰带
+item.gaohbelt.name=牙王腰带
+item.yuukibelt_skull.name=幽汽腰带(骷髅形态)
+item.yuukibelt_hijack.name=幽汽腰带(劫持形态)
+item.gden_odriver.name=G电王腰带
+
+item.rider_ticket.name=骑士车票
+item.rider_ticket_sword.name=骑士车票 桃塔罗斯
+item.rider_ticket_rod.name=骑士车票 浦塔罗斯
+item.rider_ticket_ax.name=骑士车票 金塔罗斯
+item.rider_ticket_gun.name=骑士车票 龙塔罗斯
+item.rider_ticket_wing.name=骑士车票 齐格
+item.ktaros.name=K-Taros
+item.rider_ticket_strike.name=骑士车票 泰迪
+item.rider_ticket_nega.name=骑士车票 负塔罗斯
+item.rider_ticket_yuuki.name=骑士车票 幽灵异魔神
+item.rider_ticket_g.name=骑士车票 伊布
+item.rider_ticket_gaoh.name=骑士车票 牙王
+
+item.zeronos_plat_card.name=Zeronos Plat卡片
+item.zeronos_altair_card.name=Zeronos Altair卡片
+item.zeronos_vega_card.name=Zeronos Vega卡片
+item.zeronos_zero_card.name=Zeronos Zero卡片
+
+
+item.garulu_saber.name=Garulu Saber
+item.basshaamagnum.name=Basshaa Magnum
+item.dogga_hammer.name=Dogga Hammer
+item.ixa_caliber.name=Ixa Caliber
+item.ixariser.name=Ixariser
+item.zanbatsword.name=Zanvat Sword
+item.zanbatsword_core.name=Zanvat Sword Core
+item.jacorder.name=Jacorder
+
+item.kivahead.name=Kiva头盔
+item.kivatroso.name=Kiva胸甲
+item.kivalegs.name=Kiva护腿
+
+item.darkkivadriver.name=暗黑Kiva腰带
+item.newkivadriver.name=新Kiva腰带
+item.kivadriver.name=Kiva腰带
+item.sagarc_belt.name=Sagarc腰带
+item.ixa_belt.name=Ixa腰带
+item.arcdriver.name=Arc腰带
+item.reydriver.name=Rey腰带
+
+item.kivaladriver.name=Kivala腰带
+
+
+
+
+item.wakeupfuestle.name=Wakeup Fuestle
+item.garulufuestle.name=Garulu Fuestle
+item.basshaafuestle.name=Basshaa Fuestle
+item.doggafuestle.name=Dogga Fuestle
+item.tatsulot.name=Tatsulot
+
+item.knucklefuestle.name=Knuckle Fuestle
+item.risingfuestle.name=Riser Fuestle
+
+item.sagafuestle.name=Saga Wakeup Fuestle
+
+item.keyfuestle.name=Key Fuestle
+
+item.darkwakeupfuestle.name=Dark Wakeup Fuestle
+item.newwakeupfuestle.name=New Wakeup Fuestle
+
+item.faiz_edge.name=Faiz Edge
+
+item.faizhead.name=Faiz头盔
+item.faiztroso.name=Faiz胸甲
+item.faizlegs.name=Faiz护腿
+
+item.faizdriver.name=Faiz驱动器
+item.kaixadriver.name=Kaixa驱动器
+item.deltadriver.name=Delta驱动器
+item.psygadriver.name=Psyga驱动器
+item.orgadriver.name=Orga驱动器
+item.smartbulke.name=Smart Bulke
+
+item.faiz_mission_memory.name=Faiz使命芯片
+item.faiz_axel_mission_memory.name=Faiz加速使命芯片
+item.faiz_blaster_mission_memory.name=Faiz爆裂使命芯片
+item.kaixa_mission_memory.name=Kaixa使命芯片
+item.delta_mission_memory.name=Delta使命芯片
+item.psyga_mission_memory.name=Psyga使命芯片
+item.orga_mission_memory.name=Orga使命芯片
+  
+  
+item.decadecard.name=假面骑士Decade
+item.decadecard_violent_emotion.name=假面骑士Decade 激情形态
+item.kivacard.name=假面骑士Kiva
+item.den_ocard.name=假面骑士电王
+item.kabutocard.name=假面骑士甲斗
+item.hibikicard.name=假面骑士响鬼
+item.bladecard_de.name=假面骑士剑
+item.faizcard.name=假面骑士Faiz
+item.ryukicard.name=假面骑士龙骑
+item.agitocard.name=假面骑士Agito
+item.kuugacard.name=假面骑士空我
+
+item.ichigocard.name=假面骑士一号
+item.nigocard.name=假面骑士二号
+item.v3card.name=假面骑士V3
+item.ridermancard.name=假面骑士骑士人
+item.xcard.name=假面骑士X
+item.amazoncard.name=假面骑士Amazon
+item.strongercard.name=假面骑士Stronger
+item.skyridercard.name=假面骑士天空骑士
+item.super1card.name=假面骑士Super-1
+item.zxcard.name=假面骑士ZX
+item.blackcard.name=假面骑士Black
+item.blackrxcard.name=假面骑士Black RX
+item.zocard.name=假面骑士ZO
+item.jcard.name=假面骑士J
+item.shincard.name=假面骑士真
+
+item.g4card.name=假面骑士G4
+item.ryugacard.name=假面骑士龙牙
+item.orgacard.name=假面骑士Orga
+item.glaivecard.name=假面骑士Glaive
+item.kabukicard.name=假面骑士歌舞鬼
+item.caucasuscard.name=假面骑士Caucasus
+item.arccard.name=假面骑士Arc
+item.skullcard.name=假面骑士Skull
+
+item.wcard.name=假面骑士W
+item.ooocard.name=假面骑士OOO
+item.fourzecard.name=假面骑士Fourze
+item.wizardcard.name=假面骑士Wizard
+item.gaimcard.name=假面骑士铠武
+item.drivecard.name=假面骑士Drive
+item.ghostcard.name=假面骑士Ghost
+item.exaidcard.name=假面骑士Ex-Aid
+item.buildcard.name=假面骑士Build
+
+item.diendcard.name=假面骑士Diend
+item.darkdecadecard.name=假面骑士黑暗Decade
+
+
+item.garulu_kivacard.name=形态驾驭 Kiva 加鲁鲁形态
+item.basshaa_kivacard.name=形态驾驭 Kiva 巴夏形态
+item.dogga_kivacard.name=形态驾驭 Kiva 德迦形态
+
+item.rod_den_ocard.name=形态驾驭 电王 圣竿形态
+item.axe_den_ocard.name=形态驾驭 电王 圣斧形态
+item.gun_den_ocard.name=形态驾驭 电王 圣枪形态
+item.wing_den_ocard.name=形态驾驭 电王 圣翼形态
+
+item.axel_faizcard.name=形态驾驭 Faiz 加速
+
+item.flame_agitocard.name=形态驾驭 Agito 火焰形态
+item.storm_agitocard.name=形态驾驭 Agito 风暴形态
+
+item.dragon_kuugacard.name=形态驾驭 空我 青龙形态  
+item.pegasus_kuugacard.name=形态驾驭 空我 天马形态
+item.titan_kuugacard.name=形态驾驭 空我 泰坦形态
+
+item.emperor_kivacard.name=最终假面驾驭 Kiva 魔皇形态
+item.liner_den_ocard.name=最终假面驾驭 电王 电车形态
+item.hyper_kabutocard.name=最终假面驾驭 甲斗 超越形态
+item.armed_hibikicard.name=最终假面驾驭 装甲响鬼
+item.king_bladecard.name=最终假面驾驭 剑 帝王形态
+item.blaster_faizcard.name=最终假面驾驭 Faiz 爆裂形态
+item.survive_ryukicard.name=最终假面驾驭 龙骑 生存
+item.shining_agitocard.name=最终假面驾驭 Agito 闪耀形态
+item.ultimate_kuugacard.name=最终假面驾驭 空我 究极形态
+
+item.k_touch.name=K-Touch(Decade)
+item.k_touch_diend.name=K-Touch(Diend)
+
+item.ride_booker.name=Ride Booker
+item.diend_driver.name=Diend Driver
+item.neo_diend_driver.name=Neo Diend Driver
+
+item.ongekibo_rekka_decade.name=Ongekibo Rekka (Decade)
+item.ongekibo_rekka_diend.name=Ongekibo Rekka (Diend)
+ 
+item.birth_driver.name=Birth驱动器
+item.birth_driver_prototype.name=原型Birth驱动器
+
+item.meteor_driver.name=Meteor驱动器
+item.nadeshikodriver.name=Nadeshiko驱动器
+
+item.fusion_swich.name=Fusion switch
+
+
+item.meteor_swich.name=Meteor switch
+item.meteor_storm_swich.name=Meteor Storm switch
+item.nadeshiko_switch.name=Nadeshiko Switch
+
+item.ride_saber.name=Ride Saber
+item.drag_saber.name=Drag Saber
+item.drag_claw.name=Drag Claw
+item.drag_visor_zwei.name=Drag Visor Zwei
+
+item.wing_lancer.name=Wing Lancer
+item.dark_blade.name=Dark Blade
+
+item.veno_saber.name=Veno Saber
+
+item.gold_sabers.name=Gold Sabers
+
+item.wing_slasher.name=Wing Slasher
+
+item.drag_saber_ryuga.name=Drag Saber (Ryuga Ver)
+item.ryuga_drag_claw.name=Drag Claw (Ryuga Ver)
+
+item.abyss_saber.name=Abyss Saber
+
+item.alternative_sword.name=Alternative Sword
+
+item.ryukihead.name=龙骑头盔
+item.ryukitroso.name=龙骑胸甲
+item.ryukilegs.name=龙骑护腿
+
+item.v_buckle_ryuki.name=V带扣(龙骑)
+
+item.v_buckle_ryuga.name=V带扣(龙牙)
+
+item.dark_visor.name=Dark Visor
+item.v_buckle_knight.name=V带扣(夜骑)
+item.v_buckle_scissors.name=V带扣(Scissors)
+
+item.v_buckle_zolda.name=V带扣(Zolda)
+item.v_buckle_raia.name=V带扣(Raia)
+item.v_buckle_gai.name=V带扣(Gai)
+item.v_buckle_ouja.name=V带扣(Ouja)
+item.v_buckle_tiger.name=V带扣(Tiger)
+item.v_buckle_imperer.name=V带扣(Imperer)
+item.v_buckle_odin.name=V带扣(Odin)
+item.v_buckle_femme.name=V带扣(Femme)
+item.v_buckle_verde.name=V带扣(Verde)
+item.v_buckle_abyss.name=V带扣(Abyss)
+
+item.alternativebelt.name=Alternative腰带
+item.alternativezerobelt.name=Alternative Zero腰带
+
+item.drag_visor.name=Drag Visor
+item.veno_visor.name=Veno Visor
+item.dest_visor.name=Dest Visor
+item.dark_drag_visor.name=Dark Drag Visor
+item.magna_visor.name=Magna Visor
+item.scissors_visor.name=Scissors Visor
+item.evil_visor.name=Evil Visor
+item.gold_visor.name=Gold Visor
+item.bio_visor.name=Bio Visor
+item.metal_visor.name=Metal Visor
+item.gazelle_visor.name=Gazelle Visor
+item.blanc_visor.name=Blanc Visor
+item.abyss_visor.name=Abyss Visor
+item.slash_visor.name=Slash Visor
+
+item.contract_advent.name=Contract Card
+item.dragreder_advent.name=Dragreder Advent Card
+item.survive_advent.name=Survive Card
+
+item.darkwing_advent.name=Darkwing Advent
+item.volcancer_advent.name=Volcancer Advent
+item.magnugiga_advent.name=Magnugiga Advent
+item.evildiver_advent.name=Evildiver Advent
+item.metalgelas_advent.name=Metalgelas Advent
+item.venosnaker_advent.name=Venosnaker Advent
+item.destwilder_advent.name=Destwilder Advent
+item.gigazelle_advent.name=Gigazelle Advent
+item.biogreeza_advent.name=Biogreeza Advent
+item.blancwing_advent.name=Blancwing Advent
+item.dragblacker_advent.name=Dragblacker Advent
+item.goldphoenix_advent.name=Goldphoenix Advent
+item.abysslasher_advent.name=Abysslasher Advent
+item.psycorogue_advent.name=Psycorogue Advent
+        
+        
+item.survive_shippu_advent.name=Survive Vent
+item.survive_mugen_advent.name=Survive Vent
+
+
+item.drag_visor_zwei_sword_mode_vent.name=Drag Visor Zwei Sword Vent
+item.wing_lancer_vent.name=Wing Lancer Sword Vent
+item.dark_blade_vent.name=Dark Blade Sword Vent
+item.veno_saber_vent.name=Veno Saber Sword Vent
+item.wing_slasher_vent.name=Wing Slasher Sword Vent
+item.gold_sabers_vent.name=Gold Sabers Sword Vent
+    
+item.abyss_saber_vent.name=Abyss Saber Sword Vent
+item.alternative_sword_vent.name=Alternative Sword Vent
+
+item.blank_sword_vent.name=Blank Sword Vent
+item.drag_saber_vent.name=Drag Saber Sword Vent
+item.ryuga_drag_saber_vent.name=Drag Saber Sword Vent(Ryuga Ver)
+
+
+item.drag_claw.name=Drag Claw
+item.drag_shield.name=Drag Shield
+
+item.scissors_pincer.name=Scissors Pincer
+item.incisor_guard.name=Shell Defense  
+item.torque_guard.name=Giga Armor  
+item.hetal_horn.name=Metal Horn     
+item.dest_claws.name=Dest Claws
+item.gold_shield.name=Gold Shield
+item.wing_shield.name=Wing Shield
+item.ryuga_drag_shield.name=Drag Shield (Ryuga Ver)
+item.abyssmash.name=Abyssmash
+       
+item.drag_claw_vent.name=Drag Claw Strike Vent
+item.scissors_pincer_vent.name=Scissors Pincer Strike Vent
+item.metal_horn_vent.name=Metal Horn Strike Vent
+item.dest_claws_vent.name=Dest Claws Strike Vent
+item.ryuga_drag_claw_vent.name=Drag Claw Strike Vent (Ryuga Ver)
+item.abyssmash_vent.name=Abyssmash Strike Vent
+        
+item.drag_shield_vent.name=Drag Shield Guard Vent
+item.shell_defense_vent.name=Shell Defense Guard Vent
+item.giga_armor_vent.name=Giga Armor Guard Vent
+item.wing_shield_vent.name=Wing Shield Guard Vent
+item.ryuga_drag_shield_vent.name=Drag Shield Guard Vent  (Ryuga Ver)
+item.gold_shield_vent.name=Gold Shield Guard Vent
+        
+
+item.faiz_blaster.name=Faiz Blaster
+item.orga_stlanzer.name=Orga Stlanzer
+item.axel_ray_gun.name=Axel Ray Gun
+
+item.kaixa_blaygun.name=Kaixa Blaygun
+item.deltablaster.name=Delta Blaster
+item.psyga_tonfa_edge.name=Psyga Tonfa Edge
+
+item.drago_timer.name=Drago Timer
+item.special_ring.name=Special Ring
+item.finish_strike_ring.name=Finish Strike Ring
+item.hope_ring.name=Hope Ring
+item.special_rush_ring.name=Special Rush Ring
+
+item.beastdriver.name=Beast Driver
+item.beast_ring.name=Beast Ring
+item.falco_ring.name=Falco Ring
+item.chameleo_ring.name=Chameleo Ring
+item.buffa_ring.name=Buffa Ring
+item.dolphi_ring.name=Dolphi Ring
+item.hyper_ring.name=Hyper Ring
+
+item.light_ring.name=Light Ring
+item.excite_ring.name=Excite Ring
+item.defend_ring.name=Defend Ring
+item.thunder_ring.name=Thunder Ring
+item.explosion_ring.name=Explosion Ring
+item.sleep_ring.name=Sleep Ring
+item.bind_ring.name=Bind Ring
+item.teleport_ring.name=Teleport Ring
+item.fall_ring.name=Fall Ring
+
+
+item.wiseman_ring.name=Wiseman Ring
+item.mage_o_ring.name=Mage Ring
+item.mage_b_ring.name=Mage Ring
+item.mage_g_ring.name=Mage Ring
+item.sorcerer_ring.name=Sorcerer Ring
+item.black_ring.name=Black Wizard Ring
+item.dark_ring.name=Dark Wizard Ring
+
+item.connect_ring.name=Connect Ring
+item.kick_strike_ring.name=Kick Strike Ring
+item.eclipse_ring.name=Eclipse Ring
+item.liquid_ring.name=Liquid Ring
+item.engage_ring.name=Engage Ring
+item.please_ring.name=Please Ring
+item.small_ring.name=Small Ring
+item.big_ring.name=Big Ring
+item.copy_ring.name=Copy Ring
+item.drill_ring.name=Drill Ring
+item.smell_ring.name=Smell Ring
+item.extend_ring.name=Extend Ring     
+item.merry_christmas_ring.name=Merry Christmas Ring
+item.dress_up_ring.name=Dress Up Ring
+item.blizzard_ring.name=Blizzard Ring
+item.gravity_ring.name=Gravity Ring       
+item.time_ring.name=Time Ring
+item.miracle_ring.name=Miracle Ring
+item.flower_ring.name=Flower Ring
+item.dance_ring.name=Dance Ring
+
+
+item.budou_ryuhou.name=Budou Ryuhou
+item.mango_punisher.name=Mango Punisher
+item.duri_noko.name=Duri Noko
+item.kiwi_gekirin.name=Kiwi Gekirin
+
+item.kabi_daidaimaru.name=Kabi Daidaimaru
+item.maja_yomimaru.name=Maja's Sword
+
+item.sonic_arrow.name=Sonic Arrow
+item.kagematsu_shin.name=Kagematsu Shin
+
+item.suika_sojinto.name=Suika Sojinto
+item.suika_sojinto_baron_ver.name=Suika Sojinto (Baron ver.)
+item.suika_sojinto_knuckle_ver.name=Suika Sojinto (Knuckle ver.)
+
+item.yomimaru.name=Yomimaru
+item.sword_bringer.name=Sword Bringer
+item.apple_reflecter.name=Apple Reflecter
+item.souginjou.name=Souginjou
+item.dark_daidaimaru.name=Dark Daidaimaru
+item.watermelon_defender.name=Watermelon Defender
+
+item.blayrouzer.name=Blay Rouzer
+item.kingrouzer.name=King Rouzer
+item.leanglerouzer.name=Leangle Rouzer
+item.garrenrouzer.name=Garren Rouzer
+
+item.chalice_arrow.name=Chalice Arrow
+item.wild_chalice_arrow.name=Wild Chalice Arrow
+item.wild_slasher.name=Wild Slasher
+
+item.bladehead.name=剑头盔
+item.bladetroso.name=剑胸甲
+item.bladelegs.name=剑护腿
+
+
+item.bladedriver.name=Blay Buckle
+item.garrendriver.name=Garren Buckle 
+item.leangle_belt.name=Leangle Buckle
+item.chalicerouzer.name=Chalice Rouzer
+item.glaive_buckle.name=Glaive Buckle
+item.larc_buckle.name=Larc Buckle
+item.lance_buckle.name=Lance Buckle
+
+item.rouze_absorber.name=Rouze Absorber
+item.garren_absorber.name=Garren Absorber
+
+item.changebeetle.name=Change Beetle
+item.change_stag.name=Change Stag
+item.change_spider.name=Change Spider
+item.change_mantis.name=Change Mantis
+item.changekerberosglaive.name=Change Kerberos (Glaive)
+item.changekerberoslance.name=Change Kerberos (Lance)
+item.changekerberoslarc.name=Change Kerberos (Larc)
+item.fusion_eagle.name=Fusion Eagle
+item.fusion_peacock.name=Fusion Peacock
+item.fusion_elephant.name=Fusion Elephant
+item.absorb_capricorn.name=Absorb Capricorn
+item.absorb_serpent.name=Absorb Serpent
+item.absorb_tiger.name=Absorb Tiger
+item.evolution_caucasus.name=Evolution Caucasus
+item.evolution_giraffa.name=Evolution Giraffa
+item.evolution_paradoxa.name=Evolution Paradoxa
+
+
+item.ongekibo_rekka.name=Ongekibo Rekka
+item.unfinished_armed_saber.name=Unfinished Armed Saber
+item.armed_saber.name=Armed Saber
+item.ongekibo_yamase.name=Ongekibo Yamase
+item.ongekibo_rokushou.name=Ongekibo Rokushou
+item.ongekibo_shakubyoushi.name=Ongekibo Shakubyoushi
+item.ongekibo_rakurai.name=Ongekibo Rakurai
+item.ongekibo_nachiguro.name=Ongekibo Nachiguro
+item.ongekibo_gouriki.name=Ongekibo Gouriki
+item.ongekibo_ressui.name=Ongekibo Ressui
+
+item.ongekikan_reppuu.name=Ongekikan Reppuu
+
+item.ongekigen_retsurai.name=Ongekigen Retsurai
+item.ongekigen_enma.name=Ongekigen Enma
+item.ongeki_shingen_retsuzan.name=Ongeki Shingen Retsuzan
+item.ongekigen_togenkyo.name=Ongekigen Togenkyo
+
+item.ongekisankaku_ressetsu.name=Ongekisankaku Ressetsu
+item.ongeki_shincho_retsuban.name=Ongeki Shincho Retsuban
+item.echo_sword_onsaken.name=Echo Sword Onsaken
+item.ongekikanabo_retto.name=Ongekikanabo Retto
+
+
+item.hibikihead.name=响鬼头盔
+item.hibikitroso.name=响鬼胸甲
+item.hibikilegs.name=响鬼护腿
+
+item.hibikidriver.name=音击鼓 火炎鼓
+item.ibukidriver.name=音击鸣 鸣风
+item.shoukidriver.name=音击鸣(胜鬼)
+item.tokidriver.name=音击鸣(斗鬼)
+item.sabakidriver.name=音击弦 阎魔
+item.zankidriver.name=音击弦 烈雷
+item.todorokidriver.name=音击弦 烈雷
+item.bankidriver.name=音击弦(蛮鬼)
+item.dankidriver.name=音击鼓 御影盘
+item.eikidriver.name=音击鼓 白绿
+item.toukidriver.name=音击鼓(冻鬼)
+item.kabukidriver.name=音击鼓(歌舞鬼)
+item.kyosukedriver.name=音击鼓(强鬼)
+item.amakidriver.name=音击鸣(山吹鬼)
+item.fubukidriver.name=音击鸣(吹雪鬼)
+item.shukidriver.name=音击弦(朱鬼)
+item.goukidriver.name=音击鼓(刚鬼)
+item.nishikidriver.name=音击鼓(西鬼)
+item.kiramekidriver.name=音击鸣(煌鬼)
+item.habatakidriver.name=音击鸣(羽击鬼)
+
+
+item.henshin_onsa.name=变身音叉 音角
+item.henshin_onsa_kurenai.name=变身音叉 音角(红)
+
+item.henshin_onsa_danki.name=变身音叉(弹鬼)
+item.henshin_onsa_eiki.name=变身音叉(锐鬼)
+item.henshin_onsa_gouki.name=变身音叉(刚鬼)
+
+item.henshin_onsa_kabuki.name=变身音叉(歌舞鬼)
+item.henshin_onsa_touki.name=变身音叉(冻鬼)
+item.henshin_onsa_kirameki.name=变身音叉(煌鬼)
+item.henshin_onsa_nishiki.name=变身音叉(西鬼)
+item.henshin_onsa_kyoki.name=变身音叉(强鬼)
+item.henshin_onsa_habataki.name=变身音叉(羽击鬼)
+
+item.henshin_onibue_ibuki.name=变身鬼笛 音笛
+item.henshin_onibue_toki.name=变身鬼笛(斗鬼)
+item.henshin_onibue_shouki.name=变身鬼笛(胜鬼)
+item.henshin_onibue_amaki.name=变身鬼笛(山吹鬼)
+item.henshin_onibue_fubuki.name=变身鬼笛(吹雪鬼)
+
+item.henshin_kigen_todoroki.name=变身鬼弦 音锭
+item.henshin_kigen_zanki.name=变身鬼弦 音枷
+item.henshin_kigen_shuki.name=变身鬼弦(朱鬼)
+item.henshin_kigen_banki.name=变身鬼弦(蛮鬼)
+item.henshin_kigen_sabaki.name=变身鬼弦(裁鬼)
+
+item.sengoku_driver_gaim_natsumikan.name=Sengoku Driver (Gaim Natsumikan)
+item.sengoku_driver_idunn.name=Sengoku Driver (Idunn)
+item.sengoku_driver_duke.name=Sengoku Driver (Duke)
+item.genesis_driver_tyrant.name=Genesis Driver (Tyrant)
+item.lemon_lockseed.name=Lemon定锁种子
+item.dragon_fruits_energy_lockseed.name=Dragon Fruits Energy定锁种子
+item.drive_lockseed.name=Drive定锁种子
+item.fresh_orange_lockseed.name=Fresh Orange定锁种子
+item.fresh_pine_lockseed.name=Fresh Pine定锁种子
+item.suika_lockseed.name=Suika定锁种子
+
+item.natsumikan_lockseed.name=Natsumikan定锁种子
+
+item.xiaolongbao_lockseed.name=Xiaolongbao 定锁种子
+item.drained_suika_lockseed.name=Drained Suika 定锁种子
+
+item.zangetsu_kachidoki_lockseed.name=Zangetsu Kachidoki 定锁种子
+
+item.techniqueshift.name=Shift Technique
+item.proto_speedshift.name=Shift Proto Speed
+item.fruitsshift.name=Shift Fruits
+item.highspeedshift.name=Shift High Speed
+item.rumble_dump.name=Rumble Dump
+item.mad_doctor.name=Mad Doctor
+item.hooking_wrecker.name=Hooking Wrecker
+item.fire_braver.name=Fire Braver
+item.rolling_gravity.name=Rolling Gravity
+item.road_winter.name=Road Winter
+
+item.mega_maxflare.name=Mega Max Flare
+
+item.signal_mach.name=Signal Mach
+item.signal_magarl.name=Signal Magarl
+item.signal_kaksarn.name=Signal Kaksarn
+item.signal_tomarle.name=Signal Tomarle
+item.signal_kikern.name=Signal Kikern
+
+item.mach_driver_honoh.name=Mach Driver Honoh
+
+item.kuugahead.name=空我头盔
+item.kuugatroso.name=空我胸甲
+item.kuugalegs.name=空我护腿
+
+item.arcle.name=Arcle
+
+item.dragon_rod.name=Dragon Rod
+item.pegasus_bowgun.name=Pegasus Bowgun      
+item.titan_sword.name=Titan Sword
+
+item.kuuga_growing.name=空我 初生
+item.kuuga_mighty.name=空我 全能
+item.kuuga_dragon.name=空我 青龙
+item.kuuga_pegasus.name=空我 天马
+item.kuuga_titan.name=空我 泰坦
+item.kuuga_rising_mighty.name=空我 升华全能
+item.kuuga_rising_dragon.name=空我 升华青龙
+item.kuuga_rising_pegasus.name=空我 升华天马
+item.kuuga_rising_titan.name=空我 升华泰坦
+item.kuuga_amazing_mighty.name=空我 惊异全能
+item.kuuga_ultimate.name=空我 究极
+item.kuuga_rising_ultimate.name=空我 升华究极
+item.kuuga_super_rising_ultimate.name=空我 超升华究极
+
+
+item.agitohead.name=Agito头盔
+item.agitotroso.name=Agito胸甲
+item.agitolegs.name=Agito护腿
+
+item.alter_ring.name=Alter Ring
+item.meta_factor.name=Meta Factor
+item.ank_point.name=Ank Point
+item.ank_point_burning.name=Ank Point Burning
+item.alter_ring_miracle.name=Alter Ring Miracle
+
+item.g3_belt.name=G3腰带
+item.g3_x_belt.name=G3-X腰带
+item.g3_mild_belt.name=G3 Mild腰带
+item.g4_belt.name=G4腰带
+item.g4_x_belt.name=G4-X腰带
+
+item.g1_belt.name=G1腰带
+
+item.agito_ground.name=Agito Ground
+item.agito_storm.name=Agito Storm
+item.agito_flame.name=Agito Flame
+item.agito_trinity.name=Agito Trinity
+item.agito_burning.name=Agito Burning
+item.agito_shining.name=Agito Shining
+
+item.gills.name=Gills
+item.exceed_gills.name=Exceed Gills
+
+item.g1.name=G1
+item.g3.name=G3
+item.g3x.name=G3-X
+item.g3mild.name=G3 Mild
+item.g4.name=G4
+item.g4x.name=G4-X
+
+item.another_agito.name=Another Agito
+item.agito_miracle.name=Agito Miracle
+item.another_agito_burning_form.name=Another Agito Burning
+
+
+item.kabuto_kunai.name=Kabuto Kunai Gun
+item.kabuto_kunai_kunai.name=Kabuto Kunai Gun (Kunai Mode)
+item.zect_mizer.name=Zect Mizer
+item.perfect_zecter.name=Perfect Zecter
+
+item.drake_grip.name=Drake Grip
+item.sasword_yaiver.name=Sasword Yaiver 
+
+item.gatack_double_calibur.name=Gatack Double Calibur Plus
+item.gatack_double_calibur_minus.name=Gatack Double Calibur Minus
+item.gatack_double_calibur_twin.name=Gatack Double Calibur
+
+item.zect_kunai.name=ZECT Kunai Gun
+item.zect_kunai_kunai.name=ZECT Kunai Gun (Kunai Mode)
+item.clock_up_pad.name=Clock Up Pad
+
+item.kabutohead.name=甲斗头盔
+item.kabutotroso.name=甲斗胸甲
+item.kabutolegs.name=甲斗护腿
+
+item.kabuto_rider_belt.name=甲斗骑士腰带
+
+item.thebee_rider_belt.name=TheBee骑士腰带
+item.drake_rider_belt.name=Drake骑士腰带
+item.sasword_rider_belt.name=Sasword骑士腰带
+item.gatack_rider_belt.name=Gatack骑士腰带
+item.kickhopper_rider_belt.name=Kickhopper骑士腰带
+item.puchhopper_rider_belt.name=Punchhopper骑士腰带
+item.caucasus_rider_belt.name=Caucasus骑士腰带
+item.hercus_rider_belt.name=Hercus骑士腰带
+item.ketaros_rider_belt.name=Ketaros骑士腰带
+    
+
+item.kabuto_zecter.name=Kabuto Zecter
+item.hyper_zecter.name=Hyper Zecter
+
+item.thebee_zecter.name=TheBee Zecter
+item.drake_zecter.name=Drake Zecter
+item.sasword_zecter.name=Sasword Zecter
+item.gatack_zecter.name=Gatack Zecter
+item.kickhopper_zecter.name=Kickhopper Zecter
+item.punchhopper_zecter.name=Punchhopper Zecter
+item.caucasus_zecter.name=Caucasus Zecter
+item.hercus_zecter.name=Hercus Zecter
+item.ketaros_zecter.name=Ketaros Zecter
+item.perfectthebee_zecter.name=Perfect TheBee Zecter
+item.perfectdrake_zecter.name=Perfect Drake Zecter
+item.perfectsasword_zecter.name=Perfect Sasword Zecter
+
+item.dienddriver.name=Diend腰带
+
+    
+item.sengoku_driver_duke.name=战极驱动器(Duke)
+item.sengoku_driver_savior.name=战极驱动器(Savior)
+item.sengoku_driver_baron_black.name=战极驱动器(Baron Black)
+item.lemon_lockseed.name=Lemon定锁种子
+item.marron_energy_lockseed.name=Marron Energy定锁种子
+item.zakuro_lockseed.name=Zakuro定锁种子
+
+item.drivedrivergold.name=Drive Driver Gold
+item.metro_pd_driver_honoh.name=Metro PD Driver Honoh
+
+item.handle_sword.name=Handle-Ken
+item.door_ju.name=Door-Ju
+item.trailer_hou.name=Trailer-Hou
+item.zenrin_shooter.name=Zenrin Shooter
+item.break_gunner.name=Break Gunner
+item.break_gunner_2.name=Break Gunner(腰带)
+item.shingouax.name=Shingou-Ax
+item.lupin_gunner.name=Lupin Gunner
+item.blade_gunner.name=Blade Gunner
+    
+item.mantarn_f01.name=Mantarn F01
+item.jacky_f02.name=Jacky F02
+item.sparner_f03.name=Sparner F03
+
+item.tridoron_key.name=Tridoron Key
+
+item.dead_heat.name=Shift Dead Heat
+item.formulashift.name=Shift Formula
+item.tridoronshift.name=Shift Tridoron
+item.shift_next.name=Shift Next
+item.shift_special.name=Shift Special
+item.signal_chaser.name=Signal Chaser
+    
+item.ghosthead.name=Ghost头盔
+item.ghosttroso.name=Ghost胸甲
+item.ghostlegs.name=Ghost护腿
+item.ghostdriver.name=Ghost驱动器(Ghost)
+item.specterdriver.name=Ghost驱动器(Specter)
+item.mega_ulorder.name=Mega Ulorder
+item.new_ghostdriver.name=Ghost驱动器(New Ghost)
+
+item.extremer_driver.name=Extremer驱动器
+
+item.ore_ghost_icon.name=我幽灵眼魂
+item.edison_ghost_icon.name=Edison幽灵眼魂
+item.newton_ghost_icon.name=Newton幽灵眼魂
+item.musashi_ghost_icon.name=Musashi幽灵眼魂
+item.new_ore_ghost_icon.name=新 我幽灵眼魂
+
+item.savior_arrow.name=Savior Arrow
+
+item.specter_ghost_icon.name=Specter幽灵眼魂
+
+item.toucon_boost_icon.name=Toucon Boost幽灵眼魂
+item.robin_ghost_icon.name=Robin Hood幽灵眼魂
+item.billy_the_kid_icon.name=Billy The Kid幽灵眼魂
+item.beethoven_icon.name=Beethoven幽灵眼魂
+item.benkei_icon.name=Benkei幽灵眼魂
+
+item.goemon_icon.name=Goemon幽灵眼魂
+item.ryoma_icon.name=Ryoma幽灵眼魂
+
+item.tutankhamun_icon.name=Tutankhamun幽灵眼魂
+item.nobunaga_icon.name=Nobunaga幽灵眼魂
+
+item.necrom_ghost_icon.name=Necrom幽灵眼魂
+item.grimm_icon.name=Grimm幽灵眼魂
+item.sanzo_icon.name=Sanzo幽灵眼魂
+item.himiko_ghost_icon.name=Himiko幽灵眼魂
+item.houdini_icon.name=Houdini幽灵眼魂
+
+item.ikkyu_icon.name=Ikkyu幽灵眼魂
+item.pythagoras_icon.name=Pythagoras幽灵眼魂
+item.santa_icon.name=Santa幽灵眼魂
+item.kamehameha_icon.name=Kamehameha幽灵眼魂
+item.special_ore_icon.name=Special Ore幽灵眼魂
+item.ore_specter_ghost_icon.name=Ore Specter幽灵眼魂
+item.ishinomori_ghost_icon.name=Ishinomori幽灵眼魂
+item.da_vinci_ghost_icon.name=Da Vinci幽灵眼魂
+
+item.sin_specter_icon.name=Sin Specter幽灵眼魂
+item.yujou_burst_icon.name=Yujou Burst幽灵眼魂
+item.tenkatoitsu_icon.name=Tenkatoitsu幽灵眼魂
+item.shinsengumi_icon.name=Shinsengumi幽灵眼魂
+
+item.royalty_gamma_icon.name=Royality Gamma Eyecon
+item.transform_gamma_icon.name=Transform Gamma Eyecon
+item.knife_gamma_icon.name=Knife Gamma Eyecon
+
+item.yurusen_gamma_icon.name=Yurusen Gamma Eyecon
+item.sister_gamma_icon.name=Sister Gamma Eyecon
+
+item.showa_ghost_icon.name=昭和幽灵眼魂
+item.kuuga_ghost_icon.name=空我幽灵眼魂
+item.agito_ghost_icon.name=Agito幽灵眼魂
+item.ryuki_ghost_icon.name=龙骑幽灵眼魂
+item.faiz_ghost_icon.name=Faiz幽灵眼魂
+item.blade_ghost_icon.name=剑幽灵眼魂
+item.hibiki_ghost_icon.name=响鬼幽灵眼魂
+item.kabuto_ghost_icon.name=甲斗幽灵眼魂
+item.den_o_ghost_icon.name=电王幽灵眼魂
+item.kiva_ghost_icon.name=Kiva幽灵眼魂
+item.decade_ghost_icon.name=Decade幽灵眼魂
+item.double_ghost_icon.name=W幽灵眼魂
+item.ooo_ghost_icon.name=OOO幽灵眼魂
+item.fourze_ghost_icon.name=Fourze幽灵眼魂
+item.wizard_ghost_icon.name=Wizard幽灵眼魂
+item.gaim_ghost_icon.name=Gaim幽灵眼魂
+item.drive_ghost_icon.name=Drive幽灵眼魂
+item.ghost_ghost_icon.name=Ghost幽灵眼魂
+item.ex_aid_ghost_icon.name=Ex-Aid幽灵眼魂
+
+item.unfinished_fourtyfive_heisei_ghost_icon.name=未完成的45平成幽灵眼魂
+item.fourtyfive_heisei_ghost_icon.name=45平成幽灵眼魂
+item.fourtyfive_showa_ghost_icon.name=45昭和幽灵眼魂
+
+item.donut.name=甜甜圈
+item.icepop1.name=冰棒
+item.icepop2.name=冰棒
+item.icepop3.name=冰棒
+
+item.flame_saber_charge.name=Flame Saber
+item.flame_saber.name=Flame Saber
+item.storm_halberd.name=Storm Halberd
+
+item.shining_caliber_summoned.name=Shining Caliber (Single Mode)
+item.shining_caliber.name=Shining Caliber
+
+
+item.den_oriderpass.name=骑士车票
+item.gden_oriderpass.name=G电王骑士车票
+item.den_o_master_pass.name=管理员车票
+   
+   
+
+item.ichigohead.name=一号头盔
+item.ichigotroso.name=一号胸甲
+item.ichigolegs.name=一号护腿
+
+item.typhoon_core.name=台风核心
+item.riderman_belt_core.name=骑士人腰带核心
+item.ridol_core.name=Ridol 核心
+item.condorer_wheel.name=Condorer Wheel
+item.electrer_core.name=Electrer核心
+item.tornado_core.name=Tornado核心
+item.cyclode_core.name=Cyclode核心
+item.zx_belt_core.name=ZX Belt核心
+item.king_stone_core.name=Raw King Stone
+item.king_stone_split.name=Split King Stone
+
+item.typhoon_ichigo.name=台风(一号)
+item.typhoon_nigo.name=台风(二号)
+
+item.new_typhoon.name=台风(2016)
+
+item.typhoon_sango.name=台风(三号)
+item.typhoon_yongo.name=台风(四号)
+
+item.susanoo_belt.name=Susanoo腰带
+item.tsukuyomi_belt.name=Tsukuyomi腰带
+item.amaterasu_belt.name=Amaterasu腰带
+
+item.moonriser.name=Moonriser
+item.king_stone_red_shadow_moon.name=King Stone (Red Shadow Moon)
+
+item.typhoon_akarider.name=台风(Akarider)
+item.typhoon_aorider.name=台风(Aorider)
+item.typhoon_kirider.name=台风(Kirider)
+item.typhoon_momorider.name=台风(Momorider)
+item.typhoon_midorider.name=台风(Midorider)
+
+
+item.typhoon_shocker_rider_1.name=台风(修卡骑士 1)
+item.typhoon_shocker_rider_2.name=台风(修卡骑士 2)
+item.typhoon_shocker_rider_3.name=台风(修卡骑士 3)
+item.typhoon_shocker_rider_4.name=台风(修卡骑士 4)
+item.typhoon_shocker_rider_5.name=台风(修卡骑士 5)
+item.typhoon_shocker_rider_6.name=台风(修卡骑士 6)
+item.typhoon_shocker_rider_7.name=台风(修卡骑士 7)
+item.typhoon_shocker_rider_8.name=台风(修卡骑士 8)
+item.typhoon_shocker_rider_9.name=台风(修卡骑士 9)
+item.typhoon_shocker_rider_10.name=台风(修卡骑士 10)
+item.typhoon_shocker_rider_11.name=台风(修卡骑士 11)
+item.typhoon_shocker_rider_12.name=台风(修卡骑士 12)
+
+item.double_typhoon.name=Double Typhoon
+item.riderman_belt.name=骑士人腰带
+item.ridol.name=Ridol
+item.condorer.name=Condorer
+item.electrer.name=Electrer
+item.ridol_stick.name=Ridol Stick
+item.revolcane.name=Revolcane
+item.vortech_shooter.name=Vortech Shooter
+item.bio_blade.name=Bio Blade
+item.shadow_saber_short.name=Shadow Saber (Short)
+item.zx_belt.name=ZX Belt
+item.tornado.name=Tornado
+item.cyclode.name=Cyclode
+item.king_stone.name=King Stone
+item.king_stone_shadow_moon.name=King Stone (Shadow Moon)
+item.sunriser.name=Sunriser
+item.grasshopper_dna.name=Grasshopper DNA
+item.zo_core.name=ZO's Core
+item.j_spirit.name=J Spirit
+item.g_belt.name=G Belt
+
+item.bio_rider.name=Bio Rider
+item.robo_rider.name=Robo Rider
+item.charge_up.name=Charge Up
+
+item.dark_kabuto_zecter.name=Dark Kabuto Zecter
+item.dark_kabuto_rider_belt.name=Dark Kabuto Rider Belt
+
+item.nega_den_odriver.name=Nega Den-O Belt
+
+item.dark_decadedriver.name=Dark Decadriver
+item.new_decadriver.name=Neo Decadriver
+
+item.whitewizardriver.name=White Wizardriver
+item.whitewizardriverf.name=White Wizardriver (Female)
+item.blackwizardriver.name=Black Wizardriver
+item.magewizardriver.name=Mage's Belt (Orange)
+item.magewizardriver_b.name=Mage's Belt (Blue)
+item.magewizardriver_g.name=Mage's Belt (Green)
+item.sorcererdriver.name=Sorcererdriver
+
+item.darkwizardriver.name=Dark Wizardriver
+
+item.sengoku_driver_maja.name=Sengoku Driver (Maja)
+item.kabi_orange_lockseed.name=Kabi Orange定锁种子
+item.maja_lockseed.name=Maja定锁种子
+item.kiva_lockseed.name=Kiva定锁种子
+item.den_o_lockseed.name=电王定锁种子
+item.kaubuto_lockseed.name=甲斗定锁种子
+item.hibiki_lockseed.name=响鬼定锁种子
+item.blade_lockseed.name=剑定锁种子
+item.faiz_lockseed.name=Faiz定锁种子
+item.ryuki_lockseed.name=龙骑定锁种子
+item.agito_lockseed.name=Agito定锁种子
+item.kuuga_lockseed.name=空我定锁种子
+item.gaim_lockseed.name=铠武定锁种子
+
+item.hero_lockseed.name=Hero 定锁种子
+item.yummy_lockseed.name=Yummy 定锁种子
+item.hsiao_lung_pao_lockseed.name=Hsiao Lung Pao 定锁种子
+item.tom_yum_kung_lockseed.name=Tom Yum Kung 定锁种子
+item.heisei_rider_lockseed.name=Heisei 15 Rider 定锁种子
+item.showa_rider_lockseed.name=Showa 15 Rider 定锁种子
+item.gaim_lockseed_movie_special.name=Gaim 定锁种子 (Special)
+
+  
+item.lupin_belt.name=Lupin Belt
+
+item.eyecon_driver_g.name=Eyecon Driver G
+item.unfinished_eyecon_driver_g.name=Unfinished Eyecon Driver G
+item.deep_specter_ghost_icon.name=Deep Specter Eyecon
+
+
+item.dark_ghost_icon.name=Dark幽灵眼魂
+item.dark_necrom_red_ghost_icon.name=Dark Necrom幽灵眼魂(Red)
+item.dark_necrom_blue_ghost_icon.name=Dark Necrom幽灵眼魂(Blue)
+item.dark_necrom_yellow_ghost_icon.name=Dark Necrom幽灵眼魂(Yellow)
+item.dark_ghostdriver.name=Ghost Driver (Dark Ghost)
+item.proto_mega_ulorder_r.name=Proto Mega Ulorder (Dark Necrom Red)
+item.proto_mega_ulorder_b.name=Proto Mega Ulorder (Dark Necrom Blue)
+item.proto_mega_ulorder_y.name=Proto Mega Ulorder (Dark Necrom Yellow)     
+
+item.heartronshift.name=Shift Heartron
+item.shift_ride_crosser.name=Shift Ride Crosser
+item.rhino_super.name=Rhino Super Viral Core
+item.next_hunter.name=Shift Next Hunter
+item.next_builder.name=Shift Next Builder
+item.next_traveller.name=Shift Next Traveller
+item.tokujoka_key.name=Tokujoka Key
+
+item.gan_gun_saber_blade.name=Gan Gun Saber (Blade)
+item.gan_gun_saber_nitouryu.name=Gan Gun Saber (Nitouryu)
+item.gan_gun_saber_nitouryu_2.name=Gan Gun Saber (Nitouryu)
+item.gan_gun_saber_gun.name=Gan Gun Saber (Gun)
+item.gan_gun_saber_naginata.name=Gan Gun Saber (Naginata)
+item.gan_gun_saber_condor_denwor.name=Gan Gun Saber (Condor Denwor)
+item.gan_gun_saber_rifle.name=Gan Gun Saber (Rifle)
+item.gan_gun_saber_hammer.name=Gan Gun Saber (Hammer)
+item.sunglasseslasher_sword.name=Sunglasseslasher
+item.gan_gun_hand_rod.name=Gan Gun Hand
+item.gan_gun_hand_kama.name=Gan Gun Hand (Kama)
+item.deep_slasher_sword.name=Deep Slasher
+item.gan_gun_catcher_rod.name=Gan Gun Catcher
+
+item.zero_specter_ghost_icon.name=Zero Specter Eyecon
+item.zero_specterdriver.name=Ghost Driver (Zero Specter)
+item.mugen_icon.name=Mugen Eyecon
+item.proto_mega_ulorder_p.name=Proto Mega Ulorder (Dark Necrom Pink)
+item.dark_necrom_pink_ghost_icon.name=Dark Necrom幽灵眼魂 (Pink)
+item.napoleon_icon.name=Napoleon Eyecon
+item.darwin_icon.name=Darwin Eyecon 
+item.columbus_icon.name=Columbus Eyecon
+item.shakespeare_icon.name=Shakespeare Eyecon
+item.nightingale_icon.name=Nightingale Eyecon
+item.galileo_icon.name=Galileo Eyecon
+
+item.deus_rusher.name=Deus Rusher
+item.deus_rusher_red.name=Deus Rusher Machina
+
+item.bugster_virus_dna.name=Bugster Virus DNA
+item.xx_bugster_virus_dna.name=XX Bugster Virus DNA
+item.gamedeus_virus_dna.name=Gamedeus Virus DNA
+item.paradx_bugster_virus_dna.name=ParaDX Bugster Virus DNA
+
+item.gashacon_breaker.name=Gashacon Breaker
+item.gashacon_breaker_ham.name=Gashacon Breaker
+item.gashacon_key_slasher.name=Gashacon Key Slasher
+item.gashacon_sword.name=Gashacon Sword
+item.gashacon_sword_ice.name=Gashacon Sword
+
+item.gashacon_magnum_gun.name=Gashacon Magnum
+
+item.gashacon_sparrow_sickle_a.name=Gashacon Sparrow
+item.gashacon_sparrow_sickle_b.name=Gashacon Sparrow
+item.gashacon_sparrow_arrow.name=Gashacon Sparrow
+
+item.parabragun_axe.name=Gashacon Parabragun
+
+item.true_brave_sword.name=True Brave's Sword
+item.fuuma_sword.name=Fuuma's Sword
+
+item.bugster_trident.name=Bugster Trident
+
+item.ride_weapon.name=Ride Weapon
+
+item.gashacon_bugvisor.name=故障驱动器
+item.gashacon_bugvisor_ii.name=故障驱动器II
+item.gashacon_bugvisor_g.name=故障驱动器 G
+
+item.ex_aidhead.name=Ex-Aid头盔
+item.ex_aidtroso.name=Ex-Aid胸甲 
+item.ex_aidlegs.name=Ex-Aid护腿
+
+item.gamer_driver_ex_aid.name=玩家驱动器(Ex-Aid)
+item.gamer_driver_brave.name=玩家驱动器(Brave)
+item.gamer_driver_snipe.name=玩家驱动器(Snipe)
+item.gamer_driver_genmu.name=玩家驱动器(Genm)
+item.gamer_driver_lazer.name=玩家驱动器(Lazer)
+item.gamer_driver_lazer_turbo.name=玩家驱动器(Lazer Turbo)
+item.gamer_driver_paradox.name=玩家驱动器(Paradox)
+item.gamer_driver_truebrave.name=玩家驱动器(True Brave)
+item.gamer_driver_fuuma.name=玩家驱动器(Fuuma)
+item.gamer_driver_proto_brave.name=玩家驱动器(Proto Brave)
+item.gamer_driver_proto_snipe.name=玩家驱动器(Proto Snipe)
+item.gamer_driver_chronos.name=玩家驱动器(Chronos)     
+item.gamer_driver_anotherparadox.name=玩家驱动器(Another Paradox)
+item.gamer_driver_gamedeus_muteki.name=玩家驱动器(Gamedeus Muteki)
+item.gamer_driver_nico_snipe.name=玩家驱动器(Nico Snipe)
+      
+item.gashacon_bugvisor_genmu.name=故障驱动器(Genm)
+item.gashacon_bugvisor_ii_poppy.name=故障驱动器II(Poppy)
+item.gashacon_bugvisor_ii_poppy_red.name=故障驱动器II(Controlled Poppy)
+item.gashacon_bugvisor_ii_chronos.name=故障驱动器II(Chronos)
+item.gashacon_bugvisor_ii_chronos_gemdeus.name=故障驱动器II(Chronos Gemdeus)
+
+item.gashacon_bugvisor_ii_lazer.name=故障驱动器II(Lazer)
+item.gashacon_bugvisor_ii_chronicle_bugster.name=故障驱动器II(Chronicle Bugster)
+
+item.paradoxbelt.name=Paradox Belt
+item.rideplayerbelt.name=Ride Player Belt
+item.rideplayerbelt_nico.name=Ride Player Belt (Nico)
+item.ninjaplayerbelt.name=Ninja Player Belt
+        
+item.mighty_action_x_gashat.name=Mighty Action X 转玩卡带
+item.taddle_quest_gashat.name=Taddle Quest 转玩卡带
+item.bang_bang_shooting_gashat.name=Bang Bang Shooting 转玩卡带
+item.bakusou_bike_gashat.name=Bakusou Bike 转玩卡带
+        
+item.proto_mighty_action_x_gashat.name=Proto Mighty Action 转玩卡带
+item.proto_taddle_quest_gashat.name=Proto Taddle Quest 转玩卡带
+item.proto_bang_bang_shooting_gashat.name=Proto Bang Bang Shooting 转玩卡带
+item.proto_bakusou_bike_gashat.name=Proto Bakusou Bike 转玩卡带
+item.proto_mighty_action_x_gashat_origin.name=Proto Mighty Action X Gashat Origin
+        
+item.dangerous_zombie_gashat.name=Dangerous Zombie 转玩卡带
+item.kamen_rider_chronicle_gashat.name=假面骑士Chronicle 转玩卡带
+item.toki_meki_crisis_gashat.name=Toki Meki Crisis 转玩卡带
+        
+item.taddle_legacy_gashat.name=Taddle Legacy 转玩卡带
+item.hurricane_ninja_gashat.name=Hurricane Ninja 转玩卡带
+        
+item.mighty_brothers_xx_gashat.name=Mighty Brothers XX 转玩卡带
+item.maximum_mighty_x_gashat.name=Maximum Mighty X 转玩卡带
+item.hyper_muteki_gashat.name=Hyper Muteki 转玩卡带
+item.god_maximum_mighty_x_gashat.name=God Maximum Mighty X 转玩卡带
+
+item.gamedeus_hyper_muteki_gashat.name=Gamedeus Hyper Muteki 转玩卡带
+
+item.unfinished_hyper_muteki_gashat.name=Unfinished Hyper Muteki 转玩卡带
+item.unfinished_maximum_mighty_x_gashat.name=Unfinished Maximum Mighty X 转玩卡带
+item.mighty_brothers_xx_unfinished_gashat.name=Unfinished Mighty Brothers XX 转玩卡带
+        
+item.kaigan_ghost_gashat.name=Kaigan Ghost 转玩卡带
+item.full_throttle_drive_gashat.name=Full Throttle Drive 转玩卡带
+item.toukenden_gaim_gashat.name=Toukenden Gaim 转玩卡带
+item.magic_the_wizard_gashat.name=Magic The Wizard 转玩卡带
+item.space_galaxy_fourze_gashat.name=Space Galaxy Fourze 转玩卡带
+item.jungle_ooo_gashat.name=Jungle OOO 转玩卡带
+item.detective_double_gashat.name=Detective Double 转玩卡带
+item.barcode_warrior_decade_gashat.name=Barcode Warrior Decade 转玩卡带
+item.dokidoki_makai_castle_kiva_gashat.name=Dokidoki Makai Castle Kiva 转玩卡带
+item.time_express_den_o_gashat.name=Time Express Den-O 转玩卡带
+item.insect_wars_kabuto_gashat.name=Insect Wars Kabuto 转玩卡带
+item.taiko_master_hibik_gashat.name=Taiko Master Hibik 转玩卡带
+item.king_of_poker_blade_gashat.name=King Of Poker Blade 转玩卡带
+item.moshi_moshi_faiz_gashat.name=Moshi Moshi Faiz 转玩卡带
+item.mirror_labryinth_ryuki_gashat.name=Mirror Labryinth Ryuki 转玩卡带
+item.agito_of_the_sun_gashat.name=Agito Of The Sun 转玩卡带
+item.adventure_guy_kuuga_gashat.name=Adventure Guy Kuuga 转玩卡带
+item.lets_go_ichigou_gashat.name=Let's Go Ichigou 转玩卡带
+        
+item.gekitotsu_robots_gashat.name=Gekitotsu Robots 转玩卡带
+item.proto_gekitotsu_robots_gashat.name=Proto Gekitotsu Robots 转玩卡带
+        
+item.doremifa_beat_gashat.name=DoReMiFa Beat 转玩卡带
+item.proto_doremifa_beat_gashat.name=Proto DoReMiFa Beat 转玩卡带
+item.poppy_doremifa_beat_gashat.name=DoReMiFa Beat 转玩卡带 (Poppy Ver.)
+        
+item.jet_combat_gashat.name=Jet Combat 转玩卡带
+item.proto_jet_combat_gashat.name=Proto Jet Combat 转玩卡带
+        
+item.giri_giri_chambara_gashat.name=Giri Giri Chambara 转玩卡带
+item.proto_giri_giri_chambara_gashat.name=Proto Giri Giri Chambara 转玩卡带
+        
+item.shakariki_sports_gashat.name=Shakariki Sports 转玩卡带
+item.proto_shakariki_sports_gashat.name=Proto Shakariki Sports 转玩卡带
+        
+item.drago_knight_hunter_z_gashat.name=Drago Knight Hunter Z 转玩卡带
+item.proto_drago_knight_hunter_z_gashat.name=Proto Drago Knight Hunter Z 转玩卡带
+        
+item.ju_ju_burger_gashat.name=Ju Ju Burger 转玩卡带
+item.night_of_safari_gashat.name=Night Of Safari 转玩卡带
+        
+item.taddle_fantasy_gashat.name=Taddle Fantasy 转玩卡带
+item.bang_bang_simulation_gashat.name=Bang Bang Simulation 转玩卡带
+        
+item.perfect_puzzle_gashat.name=Perfect Puzzle 转玩卡带
+item.knock_out_fighter_gashat.name=Knock Out Fighter 转玩卡带
+
+item.gashat_gear_dual_another.name=转玩卡带 Gear Dual Another
+        
+item.proto_bakusou_bike_combi_fukkatsu_gashat.name=Proto Bakusou Bike Combi Fukkatsu 转玩卡带
+item.mighty_creator_vrx_gashat.name=Mighty Creator VRX 转玩卡带
+       
+item.pac_adventure_gashat.name=Pac Adventure 转玩卡带
+item.xevious_gashat.name=Xevious 转玩卡带
+item.famitsa_gashat.name=Famitsa 转玩卡带
+item.galaxian_gashat.name=Galaxian 转玩卡带
+
+item.unfinished_kamen_rider_chronicle_gashat.name=Unfinished 假面骑士Chronicle 转玩卡带
+item.knock_out_fighter_2_gashat.name=Knock Out Fighter 2 转玩卡带
+item.kamen_rider_build_gashat.name=假面骑士Build 转玩卡带
+item.bang_bang_tank_gashat.name=Bang Bang Tank 转玩卡带
+item.doctor_mighty_xx_gashat.name=Doctor Mighty XX 转玩卡带
+
+item.taiko_no_tatsujin_gashat.name=Taiko No Tatsujin 转玩卡带
+item.gabarizing_gashat.name=Ganbarizing 转玩卡带
+
+item.mighty_novel_x_gashat.name=Mighty Novel X 转玩卡带
+
+item.drill_crusher.name=钻头粉碎者
+item.hawk_gatlinger.name=飞鹰加特林者
+item.koma_ninpoutou.name=四格忍法刀
+item.kaizoku_hassha.name=海贼发车
+item.beat_crosser.name=音奏终结者
+item.twinbreaker_sword.name=双重破坏者
+item.transteamgun.name=变身烟雾枪
+item.nebulasteamgun.name=星云烟雾枪
+item.steam_blade.name=烟雾剑
+item.transteamgun_rifle.name=变身烟雾枪(步枪模式)
+item.nebulasteamgun_rifle.name=星云烟雾枪(步枪模式)
+item.full_bottle_buster.name=满装瓶罐破坏者
+item.magma_knuckle.name=熔岩铁拳
+item.blizzard_knuckle.name=暴雪铁拳
+        
+item.buildhead.name=Build头盔
+item.buildtroso.name=Build胸甲 
+item.buildlegs.name=Build护腿
+item.build_driver.name=Build驱动器
+item.build_driver_cross_z.name=Build驱动器(Cross-Z)
+item.build_driver_blood.name=Build驱动器(Blood)
+item.sclash_driver_grease.name=挤压驱动器(Grease)
+item.sclash_driver_rogue.name=挤压驱动器(Rogue)
+item.sclash_driver_cross_z_charge.name=挤压驱动器(Cross Z Charge)
+item.transteamgun_2.name=变身烟雾枪(Belt)
+item.nebulasteamgun_2.name=星云烟雾枪(Belt)
+item.build_driver_grease.name=Build驱动器(Grease)
+item.build_driver_rogue.name=Build驱动器(Rogue)
+item.build_driver_killbas.name=Build驱动器(Killbas)
+
+item.evol_driver_evol.name=Evol驱动器(Evol)
+item.evol_driver_mad_rogue.name=Evol驱动器(Mad Rogue)
+
+item.build_phone.name=Build电话
+
+item.full_bottle.name=满装瓶罐
+item.smash_bottle.name=猛击者瓶罐
+
+item.pandora_panel_green.name=潘多拉嵌板(绿)
+item.pandora_panel_red.name=潘多拉嵌板(红)
+item.pandora_panel_blue.name=潘多拉嵌板(蓝)
+item.pandora_panel_black.name=潘多拉嵌板(黑)
+item.pandora_panel_white.name=潘多拉嵌板(白)
+
+item.rabbit_full_bottle.name=Rabbit满装瓶罐
+item.gorilla_full_bottle.name=Gorilla满装瓶罐
+        
+item.tank_full_bottle.name=Tank满装瓶罐
+item.diamond_full_bottle.name=Diamond满装瓶罐
+
+
+item.taka_full_bottle.name=Taka满装瓶罐
+item.harinezumi_full_bottle.name=Harinezumi满装瓶罐
+item.ninjya_full_bottle.name=Ninjya满装瓶罐
+item.panda_full_bottle.name=Panda满装瓶罐
+item.lion_full_bottle.name=Lion满装瓶罐
+item.dragon_full_bottle.name=Dragon满装瓶罐
+item.kaizoku_full_bottle.name=Kaizoku满装瓶罐
+item.octopus_full_bottle.name=Octopus满装瓶罐
+item.phoenix_full_bottle.name=Phoenix满装瓶罐
+item.rose_full_bottle.name=Rose满装瓶罐
+item.tora_full_bottle.name=Tora满装瓶罐
+item.kujira_full_bottle.name=Kujira满装瓶罐
+item.kirin_full_bottle.name=Kirin满装瓶罐
+item.unicorn_full_bottle.name=Unicorn满装瓶罐
+item.turtle_full_bottle.name=Turtle满装瓶罐
+item.deer_full_bottle.name=Deer满装瓶罐
+item.penguin_full_bottle.name=Penguin满装瓶罐
+item.spider_full_bottle.name=Spider满装瓶罐
+item.rabbit_gold_full_bottle.name=Gold Rabbit满装瓶罐
+item.bat_full_bottle_2.name=Bat满装瓶罐
+item.same_full_bottle.name=Same满装瓶罐
+item.hachi_full_bottle.name=Hachi满装瓶罐
+item.sai_full_bottle.name=Sai满装瓶罐
+item.scorpion_full_bottle.name=Scorpion满装瓶罐
+
+item.rabbittank_sparkling_full_bottle.name=兔子坦克气泡满装瓶罐
+item.hazard_trigger.name=危险起动装置
+item.fullfull_bottle_rabbit.name=摇摇兔子坦克瓶罐(Rabbit)
+item.fullfull_bottle_tank.name=摇摇兔子坦克瓶罐(Tank)
+item.genius_full_bottle.name=天才满装瓶罐
+item.cross_z_build_can.name=Cross-ZBuild满装瓶罐
+        
+item.dog_full_bottle.name=Dog满装瓶罐
+item.santa_full_bottle.name=Santa Claus满装瓶罐
+item.kuma_full_bottle.name=Kuma满装瓶罐
+item.wolf_full_bottle.name=Wolf满装瓶罐
+item.beetle_full_bottle.name=Kabutomushi满装瓶罐
+        
+item.doctor_full_bottle.name=Doctor满装瓶罐
+item.orange_full_bottle.name=Orange满装瓶罐
+item.mahoutskai_full_bottle.name=Mahoutsukai满装瓶罐
+item.tantei_full_bottle.name=Tantei满装瓶罐
+item.momotaros_full_bottle.name=Momotaros满装瓶罐
+item.yujou_full_bottle.name=Yujou满装瓶罐
+item.obake_full_bottle.name=Obake满装瓶罐    
+item.card_full_bottle.name=Card满装瓶罐    
+        
+item.gatling_full_bottle.name=Gatling满装瓶罐
+item.soujiki_full_bottle.name=Soujiki满装瓶罐
+item.comic_full_bottle.name=Comic满装瓶罐
+item.rocket_full_bottle.name=Rocket满装瓶罐
+item.shoubousha_full_bottle.name=Shoubousha满装瓶罐
+item.lock_full_bottle.name=Lock满装瓶罐
+item.ressha_full_bottle.name=Densha满装瓶罐
+item.light_full_bottle.name=Light满装瓶罐
+item.robo_full_bottle.name=Robo满装瓶罐
+item.helicopter_full_bottle.name=Helicopter满装瓶罐
+item.ufo_full_bottle.name=UFO满装瓶罐
+item.jet_full_bottle.name=Jet满装瓶罐
+item.cyclone_full_bottle.name=Cyclone满装瓶罐
+item.eraser_full_bottle.name=Keshigomu满装瓶罐
+item.watch_full_bottle.name=Watch满装瓶罐
+item.pyramid_full_bottle.name=Pyramid满装瓶罐
+item.skateboard_full_bottle.name=Skateboard满装瓶罐
+item.fridge_full_bottle.name=Fridge满装瓶罐
+item.dragon_silver_full_bottle.name=Silver Dragon满装瓶罐
+item.engine_full_bottle.name=Engine满装瓶罐
+item.bike_full_bottle.name=Bike满装瓶罐
+item.magnet_full_bottle.name=Magnet满装瓶罐
+item.submarine_full_bottle.name=Submarine满装瓶罐
+item.dryer_full_bottle.name=Dryer满装瓶罐
+item.gold_full_bottle.name=Gold满装瓶罐
+        
+item.mic_full_bottle.name=Mic满装瓶罐
+item.cake_full_bottle.name=Cake满装瓶罐
+item.televi_full_bottle.name=Televi满装瓶罐
+item.smartphone_full_bottle.name=Smartphone满装瓶罐
+item.camera_full_bottle.name=Camera满装瓶罐
+
+item.pandora_bottle.name=Pandora Bottle
+item.golden_bangle.name=Golden Bangle
+item.low_rabbit_full_bottle.name=Low Rabbit满装瓶罐
+        
+item.game_full_bottle.name=Game满装瓶罐
+item.medal_full_bottle.name=Medal满装瓶罐
+item.usb_memory_full_bottle.name=USB Memory满装瓶罐
+item.parka_full_bottle.name=Parka满装瓶罐
+
+item.sclashjelly.name=空白挤压果冻
+item.robot_sclashjelly.name=Robot挤压果冻
+item.dragon_sclashjelly.name=Dragon挤压果冻
+item.crocodile_crack_full_bottle.name=Crocodile Crack满装瓶罐
+item.north_blizzard_full_bottle.name=North Blizzard满装瓶罐
+item.prime_rogue_full_bottle.name=Prime Rogue满装瓶罐
+item.muscle_galaxy_full_bottle.name=Muscle Galaxy满装瓶罐
+item.killbas_spider_full_bottle.name=Killbas Spider满装瓶罐
+
+item.gear_engine.name=齿轮引擎
+item.gear_remocon.name=齿轮遥控器
+item.gear_red.name=齿轮遥控器(红)
+item.gear_blue.name=齿轮引擎(蓝)
+
+item.bat_full_bottle.name=Bat满装瓶罐
+item.cobra_full_bottle.name=Cobra满装瓶罐
+item.fukurou_full_bottle.name=Fukurou满装瓶罐
+item.kuwagata_full_bottle.name=Kuwagata满装瓶罐
+item.castle_full_bottle.name=Castle满装瓶罐
+
+item.cobra_evol_bottle.name=Cobra 进化瓶罐
+item.rider_system_evol_bottle.name=Rider System 进化瓶罐
+item.dragon_evol_bottle.name=Dragon 进化瓶罐
+item.rabbit_evol_bottle.name=Rabbit 进化瓶罐
+item.dragon_evol_bottle_gold.name=Great Dragon 进化瓶罐
+
+item.lost_bat_full_bottle.name=Bat 黑迷失满装瓶罐
+item.lost_cobra_full_bottle.name=Cobra 黑迷失满装瓶罐
+item.lost_castle_full_bottle.name=Castle 黑迷失满装瓶罐
+item.lost_kuwagata_full_bottle.name=Kuwagata 黑迷失满装瓶罐
+item.lost_fukurou_full_bottle.name=Fukurou 黑迷失满装瓶罐
+item.lost_hammer_full_bottle.name=Hammer 黑迷失满装瓶罐
+item.lost_shimauma_full_bottle.name=Shimauma 黑迷失满装瓶罐
+item.lost_spanner_full_bottle.name=Spanner 黑迷失满装瓶罐
+item.lost_hasami_full_bottle.name=Hasami 黑迷失满装瓶罐
+item.lost_cd_full_bottle.name=CD 黑迷失满装瓶罐
+
+item.nebula_gas_sample.name=星云气体样本
+
+item.genius_full_bottle_blank.name=未完成的天才满装瓶罐
+
+item.dragon_magma_full_bottle.name=Dragon Magma满装瓶罐
+
+item.evol_trigger.name=进化起动装置
+
+item.ex_aid_full_bottle.name=Ex-Aid满装瓶罐
+item.ghost_full_bottle.name=Ghost满装瓶罐
+item.drive_full_bottle.name=Drive满装瓶罐
+item.gaim_full_bottle.name=铠武满装瓶罐
+item.wizard_full_bottle.name=Wizard满装瓶罐
+item.fourze_full_bottle.name=Fourze满装瓶罐
+
+item.zi_ohead.name=Zi-O头盔
+item.zi_otroso.name=Zi-O胸甲
+item.zi_olegs.name=Zi-O护腿
+
+item.ziku_driver_zi_o.name=时空驱动器(Zi-O)
+item.ziku_driver_geiz.name=时空驱动器(Geiz)
+item.oma_ziku_driver.name=时空驱动器(逢魔Zi-O)
+item.beyondriver.name=超越驱动器
+item.shinobi_driver.name=Shinobi驱动器
+item.hattari_driver.name=Hattari驱动器
+item.quiz_driver.name=Quiz驱动器
+item.kikai_driver.name=Kikai驱动器
+item.ginga_driver.name=Ginga驱动器
+item.ziku_driver_zi_o_mirror.name=时空驱动器(Zi-O 镜世界版)
+item.another_build_driver.name=异类Build驱动器
+item.another_exaid_driver.name=异类Ex-Aid驱动器
+
+item.zikan_grade.name=时间极限剑
+item.zikan_zax.name=时间严斧
+item.drill_crusher_crusher.name=钻头粉碎者粉碎者
+item.faiz_phone_x.name=Faiz手机 X
+item.ride_heisaber.name=驾驭平成剑
+item.saikyo_girade.name=最强极限剑
+item.saikyo_zikan_girade.name=最强时间极限剑
+item.zikan_zaclaw.name=时间折叠爪
+item.zikan_despear.name=时间绝望枪(枪模式)
+item.zikan_despear_kama.name=时间绝望枪(镰模式)
+item.zikan_despear_tsue.name=时间绝望枪(杖模式)
+
+item.zi_o_ridewatch.name=Zi-O 驾驭表头
+item.geiz_ridewatch.name=Geiz 驾驭表头
+item.zi_o_mirror_ridewatch.name=Zi-O 驾驭表头 镜世界版
+
+item.build_ridewatch.name=Build 驾驭表头
+item.exaid_ridewatch.name=Ex-Aid 驾驭表头
+item.ghost_ridewatch.name=Ghost 驾驭表头
+item.drive_ridewatch.name=Drive 驾驭表头
+item.gaim_ridewatch.name=铠武 驾驭表头
+item.wizard_ridewatch.name=Wizard 驾驭表头
+item.fourze_ridewatch.name=Fourze 驾驭表头
+item.ooo_ridewatch.name=OOO 驾驭表头
+item.w_ridewatch.name=W 驾驭表头
+item.decade_ridewatch.name=Decade 驾驭表头
+item.kiva_ridewatch.name=Kiva 驾驭表头
+item.deno_ridewatch.name=电王 驾驭表头
+item.kabuto_ridewatch.name=甲斗 驾驭表头
+item.hibiki_ridewatch.name=响鬼 驾驭表头
+item.blade_ridewatch.name=剑 驾驭表头
+item.faiz_ridewatch.name=Faiz 驾驭表头
+item.ryuki_ridewatch.name=龙骑 驾驭表头
+item.agito_ridewatch.name=Agito 驾驭表头
+item.kuuga_ridewatch.name=空我 驾驭表头
+
+item.zi_o_ii_ridewatch.name=Zi-OII 驾驭表头
+item.trinity_ridewatch.name=Zi-O三位一体 驾驭表头
+
+item.geizrevive_ridewatch.name=复活者Geiz 驾驭表头
+
+item.genm_ridewatch.name=Genm 驾驭表头
+item.cross_z_ridewatch.name=Cross-Z 驾驭表头
+item.beast_ridewatch.name=Beast 驾驭表头
+
+item.woz_miridewatch.name=Woz 未来驾驭表头
+item.quiz_miridewatch.name=Quiz 未来驾驭表头
+item.shinobi_miridewatch.name=Shinobi 未来驾驭表头
+item.kikai_miridewatch.name=Kikai 未来驾驭表头
+
+item.kodama_suika_arms.name=小球西瓜武装
+item.another_build_ridewatch.name=异类Build 驾驭表头
+item.ryusoulger_ridewatch.name=龙装者 驾驭表头
+
+item.shuriken_starter.name=手里剑起动装置(Shinobi)
+item.shuriken_starter_hattari.name=手里剑起动装置(Hattari)
+item.quiz_topper.name=问答面板
+item.spannerder_screwder.name=扳手和螺丝刀
+item.ginga_globe.name=银河地球仪
+        
+                
+item.amazonshead.name=Amazons头盔
+item.amazonstroso.name=Amazons胸甲 
+item.amazonslegs.name=Amazons护腿
+        
+item.amazons_driver_omega.name=Amazons驱动器(Omega)
+item.neo_amazons_driver_omega.name=Neo Amazons驱动器(New Omega)
+item.amazons_driver_alpha.name=Amazons驱动器(Alpha)
+item.amazons_driver_blind_alpha.name=Amazons驱动器(Blind Alpha)
+item.amazons_driver_sigma.name=Amazons驱动器(Sigma)
+item.neo_amazons_driver_neo.name=Neo Amazons驱动器(Neo)
+item.neo_amazons_driver_neo_alpha.name=Neo Amazons驱动器(Neo Alpha)
+
+item.condorer_core_alpha.name=Condorer核心(Alpha)
+item.condorer_core_omega.name=Condorer核心(Omega)
+item.condorer_core_sigma.name=Condorer核心(Sigma)
+item.condorer_core_blind_alpha.name=Condorer核心(Blind Alpha)
+
+item.amazon_injector_neo.name=Amazon注射器(Neo)
+item.amazon_injector_new_omega.name=Amazon注射器(New Omega)
