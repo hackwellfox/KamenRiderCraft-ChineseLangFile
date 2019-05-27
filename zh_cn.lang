@@ -1,6 +1,6 @@
 entity.MasqueradeMob.name=Masquerade Dopant
 entity.Ankhmob.name=Ankh
-entity.BugsterVirusMob.name=Bugster Virus Foot Soldier
+entity.BugsterVirusMob.name=Bugster 病毒 Foot Soldier
 entity.nebula_BugsterVirusMob.name=Nebula Bugster
 entity.GammaCommandoMob.name=Gamma Commando
 entity.PoppyMob.name=Poppy Pipopapo
@@ -71,8 +71,8 @@ itemGroup.tabex_aid=假面骑士Ex-Aid
 itemGroup.tabbuild=假面骑士Build
 itemGroup.tabamazons=假面骑士Amazons
 itemGroup.tabzi_o=假面骑士Zi-O
-itemGroup.tabdecor=装饰物品
-itemGroup.tabmisc=杂项骑士物品
+itemGroup.tabdecor=装饰品
+itemGroup.tabmisc=杂项
 
 tile.stone_kuuga.name=空我矿石
 tile.stone_agito.name=Agito矿石
@@ -80,12 +80,12 @@ tile.advent_glass.name=降临玻璃
 tile.bladecard_block.name=Rouze Card矿石
 tile.card_stone.name=Legend 骑士 Card Ore
 tile.card_hellrock.name=Legend 骑士 Card矿石
-tile.mission_memory_block.name=Mission Memory矿石
+tile.mission_memory_block.name=迷失记忆体矿石
 tile.oni_ore_block.name=Oni矿石
 tile.zectblock.name=ZECT矿石
-tile.imaginsandblock.name=Imagin Sand矿石
+tile.imaginsandblock.name=异魔神沙子 矿石
 tile.fuestleblock.name=Fuestle矿石
-tile.cellmedalblock.name=细胞硬币矿石
+tile.cellmedalblock.name=普通硬币矿石
 tile.ooo_hellrock.name=Birth核心矿石
 tile.gaiamemoryblock.name=盖亚记忆体矿石
 tile.gaiamemoryhellrock.name=T2盖亚记忆体矿石
@@ -94,25 +94,25 @@ tile.wizardgemblock.name=Wizard Gem Stone矿石
 tile.himawari_lockseedblock.name=Helheim Fruit矿石
 tile.ghost_iconsblock.name=眼魂矿石
 tile.ghost_icons_hellrock.name=Gamma Eyecon矿石
-tile.bugsters_stone.name=Bugsters Virus
-tile.pandora_box.name=Touto Full Bottle矿石
-tile.amazon_cell_block.name=Amazon Cell矿石
-tile.watch_stone.name=Ridewatch矿石
+tile.bugsters_stone.name=Bugsters 病毒
+tile.pandora_box.name=东都满装瓶矿石
+tile.amazon_cell_block.name=Amazon细胞矿石
+tile.watch_stone.name=驾驭表盘矿石
 
 
 tile.hellrock_agito.name=Agito矿石
 tile.oni_ore_hellrock.name=Oni矿石
-tile.hellwizardgemblock.name=Wizard Gem Stone矿石
-tile.hellimaginsandblock.name=Evil Imagin Sand矿石
+tile.hellwizardgemblock.name=Wizard魔法石矿石
+tile.hellimaginsandblock.name=Evil 异魔神矿石
 tile.ghost_Icons_hellrock.name=Gamma 幽灵眼魂矿石
 tile.hellrock_lockseedblock.name=Helheim Fruit矿石
-tile.drive_stone.name=Shift Car矿石
+tile.drive_stone.name=移速战车矿石
 tile.hellrock_drive.name=Shift Car矿石
-tile.gemdeus_stone.name=Gemdeus Virus
+tile.gemdeus_stone.name=Gemdeus 病毒
 tile.fuestlehellrock.name=Fake Fuestle矿石
-tile.swichhellrock.name=核心 Switch矿石
-tile.pandora_box_hellrock.name=Hokuto 满瓶矿石
-tile.pandora_box_hellrock_2.name=Seito 满瓶矿石
+tile.swichhellrock.name=核心开关矿石
+tile.pandora_box_hellrock.name=北都满瓶矿石
+tile.pandora_box_hellrock_2.name=西都满瓶矿石
 tile.neozecthellrock.name=Neo-ZECT矿石
 tile.hell_advent_glass.name=暗黑降临玻璃
 tile.bladecard_hellrock.name=Rouze Card矿石
@@ -136,7 +136,7 @@ tile.monitor.name=Computer Monitor
 tile.pandorabox.name=潘多拉魔盒
 tile.mighty_block.name=全能动作X方块
 tile.wallplate.name=Metal Wall Plate
-tile.fangire_glass.name=Fangire Glass
+tile.fangire_glass.name=Fangire 玻璃
 
 item.energy.name=能量弹
 
@@ -155,7 +155,7 @@ item.unfinished_kabutick_zecter.name=Unfinished Kabutick Zecter
 item.imaginsand.name=Imagin Sand
 item.fuestle.name=Fuestle
 item.fuestlefake.name=Fake Fuestle
-item.cellmedal.name=细胞硬币
+item.cellmedal.name=普通硬币
 item.birth_core.name=Birth核心
 item.gaiamemory.name=盖亚记忆体碎片
 item.t2gaiamemory.name=T2盖亚记忆体
@@ -203,7 +203,7 @@ item.core_driver_power_up.name=Core驱动器 强化形态
 
 item.taka.name=Taka 核心硬币
 item.kuwagata.name=Kuwagata 核心硬币
-item.lion.name=Lion 核心硬币
+item.lion.name=狮子 核心硬币
 item.sai.name=Sai 核心硬币
 item.shachi.name=Shachi 核心硬币
 item.ptera.name=Ptera 核心硬币
@@ -214,7 +214,7 @@ item.shika.name=Shika 核心硬币
 item.seiuchi.name=Seiuchi 核心硬币
 item.mukade.name=Mukade 核心硬币
 item.sasori_new.name=New Sasori 核心硬币
-item.taka_ankh.name=Ankh's Taka 核心硬币
+item.taka_ankh.name=Ankh的鹰 核心硬币
 
 item.tora.name=Tora 核心硬币
 item.kamakiri.name=Kamakiri 核心硬币
@@ -266,7 +266,7 @@ item.love.name=Love 核心硬币(头)
 item.love2.name=Love 核心硬币(手)
 item.love3.name=Love 核心硬币(腿)
 
-item.proto_birth_core.name=Proto Birth Core
+item.proto_birth_core.name=原型 Birth Core
 
 item.metal_shaft.name=Metal Shaft
 item.prism_bicker.name=Prism Bicker
@@ -451,13 +451,13 @@ item.musou_saber_naginata.name=Musou Saber (Naginata Mode)
 item.blood_musou_saber_naginata.name=Musou Saber (Naginata Mode)
 item.musou_saber_kusarigama.name=Musou Saber (Kusarigama Mode)
 item.dj_gun.name=DJ Gun
-item.dj_gun_taiken_mode.name=DJ Gun (Taiken Mode)
+item.dj_gun_taiken_mode.name=DJ枪 (Taiken Mode)
 
 item.kagematsu.name=Kagematsu
 item.donkachi.name=Donkachi
 item.melon_defender.name=Melon Defender
 item.pine_iron.name=Pine Iron
-item.ichigo_kunai.name=Ichigo Kunai
+item.ichigo_kunai.name=草莓 Kunai
 item.daidaimaru.name=Daidaimaru
 item.blood_daidaimaru.name=Daidaimaru(Blood Orange Ver)
 item.banana_spear.name=Banana Spear
@@ -500,11 +500,11 @@ item.kurumi_lockseed.name=Kurumi定锁种子
 item.donguri_lockseed.name=Donguri定锁种子
 item.melon_lockseed.name=Melon定锁种子
 item.pine_lockseed.name=Pine定锁种子
-item.ichigo_lockseed.name=Ichigo定锁种子
+item.ichigo_lockseed.name=草莓定锁种子
 item.orange_lockseed.name=Orange定锁种子
 item.banana_lockseed.name=Banana定锁种子
 item.budou_lockseed.name=Budou定锁种子
-item.mango_lockseed.name=Mango定锁种子
+item.mango_lockseed.name=芒果定锁种子
 item.durian_lockseed.name=Durian定锁种子
 item.kiwi_lockseed.name=Kiwi定锁种子
 
@@ -513,10 +513,10 @@ item.rose_attacker.name=Rose Attacker Lock Vehicle
 item.dandeliner.name=Dandeliner Lock Vehicle
 item.tulip_hopper.name=Tulip Hopper Lock Vehicle
 
-item.lemon_energy_lockseed.name=Lemon能量定锁种子
-item.cherry_energy_lockseed.name=Cherry能量定锁种子
+item.lemon_energy_lockseed.name=柠檬能量定锁种子
+item.cherry_energy_lockseed.name=樱桃能量定锁种子
 item.peach_energy_lockseed.name=Peach能量定锁种子
-item.melon_energy_lockseed.name=Melon能量定锁种子
+item.melon_energy_lockseed.name=蜜瓜能量定锁种子
 item.matsubokkuri_energy_lockseed.name=Matsubokkuri能量定锁种子
 
 item.kachidoki_lockseed.name=Kachidoki定锁种子
@@ -525,12 +525,12 @@ item.yomotsu_heguri_lockseed.name=Yomotsu Heguri定锁种子
 
 item.blood_orange_lockseed.name=Blood Orange定锁种子
 item.fifteen_lockseed.name=Fifteen定锁种子
-item.golden_ringo_lockseed.name=Golden Ringo定锁种子
+item.golden_ringo_lockseed.name=金苹果定锁种子
 item.silver_ringo_lockseed.name=Silver Ringo定锁种子
 item.watermelon_lockseed.name=Watermelon定锁种子
 item.forbidden_ringo_lockseed.name=Forbidden Ringo定锁种子
 item.black_ringo_lockseed.name=Black Ringo定锁种子
-item.black_baron_lockseed.name=Banana定锁种子(Black Baron ver.)
+item.black_baron_lockseed.name=香蕉定锁种子(勋爵巴隆ver.)
 
 item.christmas_lockseed.name=Christmas定锁种子
 item.roulette_lockseed.name=Roulette定锁种子
@@ -649,21 +649,21 @@ item.kivaladriver.name=Kivala腰带
 
 
 
-item.wakeupfuestle.name=Wakeup Fuestle
-item.garulufuestle.name=Garulu Fuestle
-item.basshaafuestle.name=Basshaa Fuestle
-item.doggafuestle.name=Dogga Fuestle
+item.wakeupfuestle.name=Wakeup 笛哨
+item.garulufuestle.name=Garulu 笛哨
+item.basshaafuestle.name=Basshaa 笛哨
+item.doggafuestle.name=Dogga 笛哨
 item.tatsulot.name=Tatsulot
 
-item.knucklefuestle.name=Knuckle Fuestle
-item.risingfuestle.name=Riser Fuestle
+item.knucklefuestle.name=Knuckle 笛哨
+item.risingfuestle.name=Riser 笛哨
 
-item.sagafuestle.name=Saga Wakeup Fuestle
+item.sagafuestle.name=Saga Wakeup 笛哨
 
-item.keyfuestle.name=Key Fuestle
+item.keyfuestle.name=Key 笛哨
 
-item.darkwakeupfuestle.name=Dark Wakeup Fuestle
-item.newwakeupfuestle.name=New Wakeup Fuestle
+item.darkwakeupfuestle.name=Dark Wakeup 笛哨
+item.newwakeupfuestle.name=New Wakeup 笛哨
 
 item.faiz_edge.name=Faiz Edge
 
@@ -770,8 +770,8 @@ item.k_touch.name=K-Touch(Decade)
 item.k_touch_diend.name=K-Touch(Diend)
 
 item.ride_booker.name=Ride Booker
-item.diend_driver.name=Diend Driver
-item.neo_diend_driver.name=Neo Diend Driver
+item.diend_driver.name=Diend 驱动器
+item.neo_diend_driver.name=Neo Diend 驱动器
 
 item.ongekibo_rekka_decade.name=Ongekibo Rekka (Decade)
 item.ongekibo_rekka_diend.name=Ongekibo Rekka (Diend)
@@ -782,10 +782,10 @@ item.birth_driver_prototype.name=原型Birth驱动器
 item.meteor_driver.name=Meteor驱动器
 item.nadeshikodriver.name=Nadeshiko驱动器
 
-item.fusion_swich.name=Fusion switch
+item.fusion_swich.name=Fusion 开关
 
 
-item.meteor_swich.name=Meteor switch
+item.meteor_swich.name=Meteor 开关
 item.meteor_storm_swich.name=Meteor Storm switch
 item.nadeshiko_switch.name=Nadeshiko Switch
 
@@ -871,8 +871,8 @@ item.abysslasher_advent.name=Abysslasher Advent
 item.psycorogue_advent.name=Psycorogue Advent
         
         
-item.survive_shippu_advent.name=Survive Vent
-item.survive_mugen_advent.name=Survive Vent
+item.survive_shippu_advent.name=生存 Vent
+item.survive_mugen_advent.name=生存 Vent
 
 
 item.drag_visor_zwei_sword_mode_vent.name=Drag Visor Zwei Sword Vent
@@ -932,13 +932,13 @@ item.finish_strike_ring.name=Finish Strike Ring
 item.hope_ring.name=Hope Ring
 item.special_rush_ring.name=Special Rush Ring
 
-item.beastdriver.name=Beast Driver
-item.beast_ring.name=Beast Ring
-item.falco_ring.name=Falco Ring
-item.chameleo_ring.name=Chameleo Ring
-item.buffa_ring.name=Buffa Ring
-item.dolphi_ring.name=Dolphi Ring
-item.hyper_ring.name=Hyper Ring
+item.beastdriver.name=Beast 驱动器
+item.beast_ring.name=Beast 戒指
+item.falco_ring.name=Falco 戒指
+item.chameleo_ring.name=Chameleo 戒指
+item.buffa_ring.name=Buffa 戒指
+item.dolphi_ring.name=Dolphi 戒指
+item.hyper_ring.name=Hyper 戒指
 
 item.light_ring.name=Light Ring
 item.excite_ring.name=Excite Ring
